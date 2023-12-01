@@ -39,9 +39,7 @@ We query the Large Language Model to augment category names to generate correspo
 
 ## Citation
 
-**OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition**
-Tongjia Chen, Hongshan Yu, Zhengeng Yang, Zechuan Li, Wei Sun, Chen Chen.
-Preprint
+If you find this work useful, please consider citing our paper! ;-)
 
 ```
 @article{
