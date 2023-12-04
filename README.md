@@ -46,7 +46,7 @@ If you find this work useful, please consider citing our paper! ;-)
     chen2023ost,
     title={OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition},
     author={Tongjia Chen, Hongshan Yu, Zhengeng Yang, Zechuan Li, Wei Sun, Chen Chen.},
-    booktitle={Preprint},
+    booktitle={arXiv preprint arXiv:2312.00096},
     year={2023}, 
  }
 ```
