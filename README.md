@@ -1,6 +1,10 @@
 <div align="center">
 <h1> OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition </h1>
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ost-refining-text-knowledge-with-optimal/zero-shot-action-recognition-on-kinetics)](https://paperswithcode.com/sota/zero-shot-action-recognition-on-kinetics?p=ost-refining-text-knowledge-with-optimal)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ost-refining-text-knowledge-with-optimal/zero-shot-action-recognition-on-hmdb51)](https://paperswithcode.com/sota/zero-shot-action-recognition-on-hmdb51?p=ost-refining-text-knowledge-with-optimal)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ost-refining-text-knowledge-with-optimal/zero-shot-action-recognition-on-ucf101)](https://paperswithcode.com/sota/zero-shot-action-recognition-on-ucf101?p=ost-refining-text-knowledge-with-optimal)
+
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://tomchen-ctj.github.io/OST/)
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2312.00096.pdf)
 
