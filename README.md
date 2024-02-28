@@ -1,5 +1,5 @@
 <div align="center">
-<h1> OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition </h1>
+<h1> 【CVPR'24】OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition </h1>
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ost-refining-text-knowledge-with-optimal/zero-shot-action-recognition-on-kinetics)](https://paperswithcode.com/sota/zero-shot-action-recognition-on-kinetics?p=ost-refining-text-knowledge-with-optimal)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ost-refining-text-knowledge-with-optimal/zero-shot-action-recognition-on-hmdb51)](https://paperswithcode.com/sota/zero-shot-action-recognition-on-hmdb51?p=ost-refining-text-knowledge-with-optimal)
@@ -50,8 +50,8 @@ If you find this work useful, please consider citing our paper! ;-)
     chen2023ost,
     title={OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition},
     author={Tongjia Chen, Hongshan Yu, Zhengeng Yang, Zechuan Li, Wei Sun, Chen Chen.},
-    booktitle={arXiv preprint arXiv:2312.00096},
-    year={2023}, 
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2024}, 
  }
 ```
 
