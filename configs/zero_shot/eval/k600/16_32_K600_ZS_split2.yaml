@@ -1,0 +1,19 @@
+DATA:
+    ROOT: '/PATH/TO/videos/folder'
+    TRAIN_FILE: 'datasets_splits/k600_splits/ZS_split2_K600_eval_filtered.txt'
+    VAL_FILE: 'datasets_splits/k600_splits/ZS_split2_K600_eval_filtered.txt'
+    DATASET: kinetics400
+    NUM_FRAMES: 32
+    NUM_CLASSES: 160
+    LABEL_LIST: 'labels/ZS_split2_K600.csv'
+    DES_SPATIAL: 'descriptors/k600/split2/spatio_4_descriptors.json'
+    DES_TEMPORAL: 'descriptors/k600/split2/temporal_4_descriptors.json'
+MODEL:
+    ARCH: ViT-B/16
+    FUSE_WEIGHT_FOR_ORIGIN: 0.2
+TRAIN:
+    BATCH_SIZE: 4  # effective BS 64
+    ACCUMULATION_STEPS: 4
+    EPOCHS: 50
+    LR: 2.e-6
+SAVE_FREQ: 10

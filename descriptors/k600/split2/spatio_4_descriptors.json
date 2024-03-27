@@ -1,0 +1,962 @@
+{
+    "0": [
+        "theater stage",
+        "costumes",
+        "props",
+        "limelight"
+    ],
+    "1": [
+        "people shouting",
+        "gesturing with hands",
+        "angry facial expressions",
+        "intense body language"
+    ],
+    "2": [
+        "Bicycle frame",
+        "Handlebars",
+        "Wheels",
+        "Pedals"
+    ],
+    "3": [
+        "airborne",
+        "athletic",
+        "acrobat",
+        "gravity-defying"
+    ],
+    "4": [
+        "parachute",
+        "cliff",
+        "adrenaline",
+        "free fall"
+    ],
+    "5": [
+        "dog in a bathtub",
+        "foamy water",
+        "washing with shampoo",
+        "rubber duck toy"
+    ],
+    "6": [
+        "battling ropes",
+        "strength training",
+        "full body workout",
+        "endurance training"
+    ],
+    "7": [
+        "person blowing bubble gum",
+        "bubble gum being blown",
+        "bubble gum bubble expanding",
+        "bubble gum bubble popping"
+    ],
+    "8": [
+        "bottles being filled",
+        "caps being put on bottles",
+        "labeling bottles",
+        "bottles being packaged"
+    ],
+    "9": [
+        "dragon",
+        "flames",
+        "burning",
+        "heat"
+    ],
+    "10": [
+        "Lego bricks",
+        "Construction process",
+        "Colorful plastic blocks",
+        "Building structures"
+    ],
+    "11": [
+        "beach",
+        "sand",
+        "castle",
+        "bucket"
+    ],
+    "12": [
+        "bull",
+        "fighting arena",
+        "matador",
+        "bullfighter"
+    ],
+    "13": [
+        "calculator",
+        "numbers",
+        "equations",
+        "mathematics"
+    ],
+    "14": [
+        "calligraphy brush",
+        "ink",
+        "paper",
+        "Chinese characters"
+    ],
+    "15": [
+        "playing cards",
+        "stacking cards",
+        "card tower",
+        "precision"
+    ],
+    "16": [
+        "cards in motion",
+        "flicking cards",
+        "precise finger movement",
+        "cards flying through the air"
+    ],
+    "17": [
+        "Ice sculpture",
+        "Chisel",
+        "Snowflake pattern",
+        "Carver"
+    ],
+    "18": [
+        "mouth",
+        "bubble",
+        "chew",
+        "snapping sound"
+    ],
+    "19": [
+        "stone",
+        "chisel",
+        "hammer",
+        "sculpture"
+    ],
+    "20": [
+        "chopping board",
+        "sharp knife",
+        "meat pieces",
+        "cutting motion"
+    ],
+    "21": [
+        "knife",
+        "vegetables",
+        "cutting board",
+        "chop"
+    ],
+    "22": [
+        "Coloring book",
+        "Colored pencils",
+        "Crayons",
+        "Coloring in progress"
+    ],
+    "23": [
+        "Twisted body",
+        "Bent limbs",
+        "Unusual body shape",
+        "Extreme flexibility"
+    ],
+    "24": [
+        "Scallops being seared in a hot pan",
+        "Chef flipping scallops with a spatula",
+        "Scallops simmering in a butter garlic sauce",
+        "Plated scallops garnished with herbs and lemon"
+    ],
+    "25": [
+        "Costumes",
+        "Props",
+        "Wigs",
+        "Makeup"
+    ],
+    "26": [
+        "person lying on their back",
+        "another person standing behind",
+        "person applying pressure to the back",
+        "audible cracking sound"
+    ],
+    "27": [
+        "hand",
+        "fingers",
+        "joints",
+        "cracking"
+    ],
+    "28": [
+        "eyes crossing",
+        "concentrated facial expression",
+        "intense focus",
+        "eye movement"
+    ],
+    "29": [
+        "Dancers performing cumbia",
+        "Colorful costumes and vibrant movements",
+        "Traditional Latin American dance style",
+        "Dynamic and rhythmic dance steps"
+    ],
+    "30": [
+        "curling stone",
+        "ice rink",
+        "broom",
+        "target"
+    ],
+    "31": [
+        "knife",
+        "apple",
+        "cutting board",
+        "slices"
+    ],
+    "32": [
+        "Mailbox",
+        "Envelope",
+        "Postman",
+        "Delivery truck"
+    ],
+    "33": [
+        "traffic lights",
+        "hand gestures",
+        "whistle",
+        "reflective vest"
+    ],
+    "34": [
+        "boat approaching dock",
+        "dock with boat",
+        "boat docking",
+        "boat securing at the dock"
+    ],
+    "35": [
+        "Jigsaw puzzle pieces",
+        "Assembling puzzle",
+        "Concentration",
+        "Completing puzzle"
+    ],
+    "36": [
+        "Droplets of saliva",
+        "Mouth watering",
+        "Wet lips",
+        "Salivating excessively"
+    ],
+    "37": [
+        "Dumpster",
+        "Trash bags",
+        "Discarded items",
+        "Urban environment"
+    ],
+    "38": [
+        "eyebrows being colored",
+        "application of dye on eyebrows",
+        "eyebrow tinting process",
+        "changing the color of eyebrows"
+    ],
+    "39": [
+        "needlework",
+        "threading",
+        "stitching",
+        "fabric art"
+    ],
+    "40": [
+        "Cyclist losing balance",
+        "Bike tipping over",
+        "Rider falling to the ground",
+        "Unintentional dismount"
+    ],
+    "41": [
+        "Restless movements",
+        "Constant shifting or twitching",
+        "Nervous gestures",
+        "Inability to stay still"
+    ],
+    "42": [
+        "Bicycle",
+        "Tools",
+        "Repairing",
+        "Maintenance"
+    ],
+    "43": [
+        "GPS device",
+        "Outdoor adventure",
+        "Hidden treasures",
+        "Navigating trails"
+    ],
+    "44": [
+        "needle",
+        "body modification",
+        "jewelry",
+        "piercing studio"
+    ],
+    "45": [
+        "River",
+        "Gold nuggets",
+        "Pan",
+        "Water splashing"
+    ],
+    "46": [
+        "water",
+        "soap",
+        "clothes",
+        "scrubbing"
+    ],
+    "47": [
+        "person doing a headstand",
+        "upside-down position",
+        "balance on head and hands",
+        "strength and flexibility required"
+    ],
+    "48": [
+        "people in historical costumes",
+        "replicas of historical weapons",
+        "recreating historical battles",
+        "detailed historical props"
+    ],
+    "49": [
+        "Group of people tightly clustered together",
+        "Bodies pressed close to one another",
+        "Arms wrapped around each other",
+        "Intimate gathering in a small area"
+    ],
+    "50": [
+        "frozen lake",
+        "people swimming in icy water",
+        "winter sport",
+        "cold water"
+    ],
+    "51": [
+        "carpet roll",
+        "utility knife",
+        "measuring tape",
+        "underlay"
+    ],
+    "52": [
+        "hair straightener",
+        "heat protection spray",
+        "straightened hair",
+        "flat iron"
+    ],
+    "53": [
+        "bicycle in mid-air",
+        "cyclist performing high jump",
+        "motion blur of cyclist jumping on bicycle",
+        "cyclist propelling off ground on bicycle"
+    ],
+    "54": [
+        "person",
+        "jumping",
+        "arms raised",
+        "repetitive"
+    ],
+    "55": [
+        "Sailboat on wheels",
+        "Wide-open sandy beach",
+        "Strong wind blowing",
+        "Sails billowing in the breeze"
+    ],
+    "56": [
+        "Lawn mower",
+        "Racing",
+        "Outdoor",
+        "Competition"
+    ],
+    "57": [
+        "stone wall",
+        "construction site",
+        "masonry work",
+        "paving"
+    ],
+    "58": [
+        "tiles",
+        "floor",
+        "adhesive",
+        "grout"
+    ],
+    "59": [
+        "leather craftsman",
+        "leather tools",
+        "leather products",
+        "embossing leather"
+    ],
+    "60": [
+        "tongue",
+        "food",
+        "lick",
+        "saliva"
+    ],
+    "61": [
+        "person lifting hat",
+        "hat being lifted",
+        "hand holding hat",
+        "movement of lifting hat"
+    ],
+    "62": [
+        "burning logs",
+        "flames",
+        "fire pit",
+        "igniting wood"
+    ],
+    "63": [
+        "lock",
+        "pick",
+        "keyhole",
+        "pin"
+    ],
+    "64": [
+        "longboard",
+        "skateboarding",
+        "rider",
+        "street"
+    ],
+    "65": [
+        "person holding phone",
+        "focused expression",
+        "hand scrolling on screen",
+        "phone screen illuminating face"
+    ],
+    "66": [
+        "sled",
+        "snow",
+        "speed",
+        "racing"
+    ],
+    "67": [
+        "balloons",
+        "inflating",
+        "twisting",
+        "creating shapes"
+    ],
+    "68": [
+        "Child blowing bubbles with a bubble wand",
+        "Bubbles floating in the air",
+        "Glistening bubble solution in a container",
+        "Bubble wand dipping into a soapy solution"
+    ],
+    "69": [
+        "ring",
+        "down on one knee",
+        "romantic setting",
+        "kneeling"
+    ],
+    "70": [
+        "neck",
+        "hand",
+        "massage",
+        "relaxation"
+    ],
+    "71": [
+        "dance move",
+        "gliding steps",
+        "backward walking",
+        "Michael Jackson's signature move"
+    ],
+    "72": [
+        "crowded",
+        "energetic",
+        "wild",
+        "intense"
+    ],
+    "73": [
+        "Mushroom basket",
+        "Mushroom guidebook",
+        "Foraging knife",
+        "Forest floor"
+    ],
+    "74": [
+        "door handle",
+        "turning key",
+        "pushing door",
+        "door swinging open"
+    ],
+    "75": [
+        "refrigerator door open",
+        "food items inside refrigerator",
+        "hand reaching into refrigerator",
+        "light from inside refrigerator"
+    ],
+    "76": [
+        "Surprised person in the background",
+        "Playful gesture",
+        "Intruding into someone else's photo",
+        "Funny facial expression"
+    ],
+    "77": [
+        "thumb and forefinger touching",
+        "two fingers holding something",
+        "firm grip with two fingers",
+        "squeezing gesture"
+    ],
+    "78": [
+        "dancer",
+        "spinning",
+        "ballet",
+        "turning"
+    ],
+    "79": [
+        "wood",
+        "sawdust",
+        "saw",
+        "workbench"
+    ],
+    "80": [
+        "Plastic cups arranged in a pyramid",
+        "Ping pong ball in mid-air",
+        "Hand holding a ping pong ball",
+        "Table with cups and ping pong ball"
+    ],
+    "81": [
+        "cards",
+        "chips",
+        "dealer",
+        "table"
+    ],
+    "82": [
+        "dartboard",
+        "darts",
+        "throwing",
+        "aiming"
+    ],
+    "83": [
+        "Dominoes",
+        "Game pieces",
+        "Playing table",
+        "Hand movements"
+    ],
+    "84": [
+        "Field hockey sticks",
+        "Hockey ball",
+        "Players wearing protective gear",
+        "Turf or grass playing surface"
+    ],
+    "85": [
+        "person hitting gong with mallet",
+        "gong vibrating",
+        "resonant sound",
+        "traditional musical instrument"
+    ],
+    "86": [
+        "Children",
+        "Hands",
+        "Rhythmic movements",
+        "Interaction"
+    ],
+    "87": [
+        "laser guns",
+        "target vests",
+        "neon lights",
+        "obstacle course"
+    ],
+    "88": [
+        "musical instrument",
+        "strings",
+        "plucking",
+        "melody"
+    ],
+    "89": [
+        "Hands holding maracas",
+        "Maracas shaking",
+        "Rhythmical movement with maracas",
+        "Music being made with maracas"
+    ],
+    "90": [
+        "netball court",
+        "players in uniforms",
+        "netball hoop",
+        "passing the ball"
+    ],
+    "91": [
+        "musician playing ocarina",
+        "hand holding ocarina",
+        "breath control while playing ocarina",
+        "melodious sound of ocarina"
+    ],
+    "92": [
+        "person playing pan pipes",
+        "musical instrument",
+        "melody",
+        "entertainment"
+    ],
+    "93": [
+        "table tennis",
+        "racket",
+        "ball",
+        "net"
+    ],
+    "94": [
+        "Horse",
+        "Polo stick",
+        "Polo ball",
+        "Polo field"
+    ],
+    "95": [
+        "Rubik's cube",
+        "Playing",
+        "Puzzles",
+        "Problem-solving"
+    ],
+    "96": [
+        "Scrabble board",
+        "Letter tiles",
+        "Word formation",
+        "Strategy"
+    ],
+    "97": [
+        "train tracks",
+        "toy locomotive",
+        "railway station",
+        "playing with train set"
+    ],
+    "98": [
+        "finger poking bellybutton",
+        "bellybutton being poked",
+        "hand touching bellybutton",
+        "playful poking of bellybutton"
+    ],
+    "99": [
+        "Metal surface",
+        "Polishing tool",
+        "Circular motion",
+        "Shine"
+    ],
+    "100": [
+        "Balloon being burst",
+        "Hand holding a pin",
+        "Balloon popping sound",
+        "Rubber balloon flying away"
+    ],
+    "101": [
+        "person pouring beer from a bottle",
+        "beer being poured into a glass",
+        "liquid flowing from a bottle into a glass",
+        "beer being poured out of a can"
+    ],
+    "102": [
+        "cutting vegetables",
+        "washing lettuce",
+        "chopping tomatoes",
+        "mixing dressing"
+    ],
+    "103": [
+        "contact lenses",
+        "eye",
+        "hand",
+        "putting"
+    ],
+    "104": [
+        "eyeliner applicator",
+        "eye makeup",
+        "precision",
+        "line"
+    ],
+    "105": [
+        "hand holding foundation bottle",
+        "applying foundation with a brush",
+        "blending foundation into the skin",
+        "face with foundation evenly applied"
+    ],
+    "106": [
+        "woman applying mascara",
+        "eye makeup",
+        "cosmetics",
+        "beauty routine"
+    ],
+    "107": [
+        "woman wearing a sari",
+        "wrapping fabric around the body",
+        "folding pleats",
+        "draping the pallu over the shoulder"
+    ],
+    "108": [
+        "Bicycle wheel",
+        "Puncture repair kit",
+        "Pump",
+        "Patch"
+    ],
+    "109": [
+        "snow blower",
+        "riding",
+        "winter landscape",
+        "clearing snow"
+    ],
+    "110": [
+        "Marshmallow on a stick",
+        "Open fire",
+        "Toasting marshmallow",
+        "S'mores"
+    ],
+    "111": [
+        "pig on a spit",
+        "open fire",
+        "smoke rising",
+        "crispy skin"
+    ],
+    "112": [
+        "rolling pin",
+        "dough",
+        "flour",
+        "baking sheet"
+    ],
+    "113": [
+        "fitness equipment",
+        "rope machine",
+        "strength training",
+        "arm workout"
+    ],
+    "114": [
+        "scissors",
+        "papers",
+        "photos",
+        "stickers"
+    ],
+    "115": [
+        "water",
+        "hand",
+        "foam",
+        "sink"
+    ],
+    "116": [
+        "eggs in a bowl",
+        "two egg yolks",
+        "egg whites in a separate bowl",
+        "a fork or whisk to separate the eggs"
+    ],
+    "117": [
+        "sewing machine",
+        "thread",
+        "fabric",
+        "needle"
+    ],
+    "118": [
+        "kneading dough",
+        "rolling dough",
+        "stretching dough",
+        "shaping dough"
+    ],
+    "119": [
+        "Flashlight",
+        "Shining light",
+        "Illuminated area",
+        "Brightness"
+    ],
+    "120": [
+        "Supermarket",
+        "Shelves",
+        "Shopping cart",
+        "Checkout counter"
+    ],
+    "121": [
+        "feet shuffling on the floor",
+        "shuffle motion of feet",
+        "dragging feet on the ground",
+        "quick sliding movement of feet"
+    ],
+    "122": [
+        "person holding a cup and sipping",
+        "close-up of a cup with liquid being sipped",
+        "hand lifting a cup to drink from it",
+        "motion blur of a cup being raised to someone's lips"
+    ],
+    "123": [
+        "snow-covered mountain",
+        "skier in action",
+        "mono-ski equipment",
+        "speed and adrenaline"
+    ],
+    "124": [
+        "Water",
+        "Ripple effect",
+        "Throwing",
+        "Stone"
+    ],
+    "125": [
+        "hammer hitting glass",
+        "shattered objects",
+        "debris flying",
+        "broken pieces everywhere"
+    ],
+    "126": [
+        "feet",
+        "shoe",
+        "socks",
+        "nose"
+    ],
+    "127": [
+        "Man smoking pipe in a vintage pub",
+        "Close-up of a pipe being lit and smoked",
+        "Elderly gentleman enjoying a pipe in a cozy armchair",
+        "Pipe smoke wafting in the air with a relaxed atmosphere"
+    ],
+    "128": [
+        "Dancers forming squares",
+        "Colorful traditional costumes",
+        "Energetic and coordinated movements",
+        "Traditional folk music playing"
+    ],
+    "129": [
+        "rodeo",
+        "lasso",
+        "cowboy",
+        "horse"
+    ],
+    "130": [
+        "person sucking on a lollipop",
+        "hand holding a lollipop",
+        "mouth with a lollipop in it",
+        "close-up of a lollipop being sucked on"
+    ],
+    "131": [
+        "swimmer in water",
+        "doing front crawl stroke",
+        "arms reaching forward and pulling back",
+        "kicking legs in flutter kick motion"
+    ],
+    "132": [
+        "baseball bat swinging in mid-air",
+        "athlete in motion swinging baseball bat",
+        "bat hitting the ball with force",
+        "powerful swing with baseball bat"
+    ],
+    "133": [
+        "Sword",
+        "Mouth",
+        "Swallowing",
+        "Performing"
+    ],
+    "134": [
+        "Spray paint can",
+        "Wall with graffiti art",
+        "Tagging hand gesture",
+        "Vibrant colors"
+    ],
+    "135": [
+        "Person talking on a cell phone",
+        "Mobile phone being held to the ear",
+        "Conversation through a mobile device",
+        "Communication using a cellular phone"
+    ],
+    "136": [
+        "wine glass",
+        "wine bottle",
+        "wine color",
+        "wine tasting event"
+    ],
+    "137": [
+        "needle",
+        "thread",
+        "sewing machine",
+        "sewing"
+    ],
+    "138": [
+        "hand holding knife",
+        "knife in motion",
+        "target in sight",
+        "throwing arm extended"
+    ],
+    "139": [
+        "Person holding a snowball",
+        "Mid-air snowball trajectory",
+        "Snowball leaving person's hand",
+        "Snowball hitting the target"
+    ],
+    "140": [
+        "child crying",
+        "stomping feet",
+        "throwing objects",
+        "screaming"
+    ],
+    "141": [
+        "Hand holding water balloon",
+        "Arm in throwing motion",
+        "Water balloon mid-air",
+        "Water splashing upon impact"
+    ],
+    "142": [
+        "fabric",
+        "dyes",
+        "patterns",
+        "colorful"
+    ],
+    "143": [
+        "tightrope",
+        "balance",
+        "height",
+        "courage"
+    ],
+    "144": [
+        "gardening tool",
+        "green plants",
+        "pruning shears",
+        "neatly trimmed bushes"
+    ],
+    "145": [
+        "fingers moving rapidly",
+        "playing with fingertips",
+        "performing a repetitive finger motion",
+        "twisting and rotating fingers"
+    ],
+    "146": [
+        "shoe",
+        "laces",
+        "hand",
+        "knot"
+    ],
+    "147": [
+        "paint roller",
+        "wall painting",
+        "painting tool",
+        "applying paint"
+    ],
+    "148": [
+        "power drill",
+        "drilling into a surface",
+        "holding the drill firmly",
+        "rotation of the drill bit"
+    ],
+    "149": [
+        "wrench",
+        "tool",
+        "metal",
+        "turning"
+    ],
+    "150": [
+        "ATM machine",
+        "bank card",
+        "transaction",
+        "cash withdrawal"
+    ],
+    "151": [
+        "operating a bagging machine",
+        "filling bags with materials",
+        "conveyor belt loading bags",
+        "automated packaging process"
+    ],
+    "152": [
+        "saw cutting wood",
+        "sawdust flying",
+        "cutting through a wooden board",
+        "sparks flying from the saw"
+    ],
+    "153": [
+        "person using inhaler",
+        "inhaler",
+        "hand holding inhaler",
+        "breathing device"
+    ],
+    "154": [
+        "wild animals",
+        "exhibits",
+        "enclosures",
+        "tourist attractions"
+    ],
+    "155": [
+        "Muddy ground",
+        "Brown mud",
+        "Wading boots",
+        "Splashing mud"
+    ],
+    "156": [
+        "Water splashing",
+        "Legs submerged",
+        "Ripples forming",
+        "Waist-deep water"
+    ],
+    "157": [
+        "waving hand",
+        "outstretched arm",
+        "moving fingers",
+        "palm facing forward"
+    ],
+    "158": [
+        "looms",
+        "threads",
+        "weavers",
+        "textile"
+    ],
+    "159": [
+        "Eye closed with one side of the face slightly raised",
+        "One eye shut while the other eye is open",
+        "Consciously closing one eye in a playful or flirtatious manner",
+        "Blinking one eye rapidly"
+    ]
+}

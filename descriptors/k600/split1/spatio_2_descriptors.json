@@ -1,0 +1,642 @@
+{
+    "0": [
+        "actors on stage",
+        "theater props"
+    ],
+    "1": [
+        "person",
+        "glasses"
+    ],
+    "2": [
+        "two people yelling",
+        "angry expressions"
+    ],
+    "3": [
+        "conference hall",
+        "lecturer presenting"
+    ],
+    "4": [
+        "Jumping in mid-air",
+        "Rotating backwards"
+    ],
+    "5": [
+        "person in mid-air",
+        "parachute"
+    ],
+    "6": [
+        "dog in a bathtub",
+        "using a sponge to clean the dog"
+    ],
+    "7": [
+        "fitness equipment",
+        "intense workout"
+    ],
+    "8": [
+        "hairdryer",
+        "blow drying"
+    ],
+    "9": [
+        "person blowing bubble gum",
+        "bubble gum bubble"
+    ],
+    "10": [
+        "ocean waves",
+        "swimmer"
+    ],
+    "11": [
+        "bottles",
+        "liquid"
+    ],
+    "12": [
+        "Karate demonstration",
+        "Board breaking"
+    ],
+    "13": [
+        "Dragon breathing fire",
+        "Blazing flames"
+    ],
+    "14": [
+        "beach",
+        "sandcastle"
+    ],
+    "15": [
+        "bull",
+        "fighting arena"
+    ],
+    "16": [
+        "bulldozer",
+        "dirt"
+    ],
+    "17": [
+        "Mouth wide open",
+        "Air being expelled from the stomach"
+    ],
+    "18": [
+        "Calligraphy brush",
+        "Ink and paper"
+    ],
+    "19": [
+        "boat overturned",
+        "water splashing"
+    ],
+    "20": [
+        "fishing rod",
+        "water"
+    ],
+    "21": [
+        "gear stick",
+        "shift knob"
+    ],
+    "22": [
+        "chisel",
+        "stone"
+    ],
+    "23": [
+        "wood",
+        "chisel"
+    ],
+    "24": [
+        "knife",
+        "meat chunks"
+    ],
+    "25": [
+        "Coloring book",
+        "Crayons"
+    ],
+    "26": [
+        "person combing hair",
+        "comb"
+    ],
+    "27": [
+        "Scallops being seared in a hot skillet",
+        "Butter melting and sizzling as scallops cook"
+    ],
+    "28": [
+        "Hand",
+        "Knuckles"
+    ],
+    "29": [
+        "Confused expression",
+        "Eyes pointed inward"
+    ],
+    "30": [
+        "Dancers in colorful traditional costumes",
+        "Rhythmically moving to the lively music"
+    ],
+    "31": [
+        "curling stone",
+        "curling broom"
+    ],
+    "32": [
+        "knife",
+        "apple"
+    ],
+    "33": [
+        "knife",
+        "orange"
+    ],
+    "34": [
+        "Postal worker",
+        "Mail bag"
+    ],
+    "35": [
+        "boat docking",
+        "harbor scene"
+    ],
+    "36": [
+        "jigsaw puzzle pieces",
+        "table"
+    ],
+    "37": [
+        "Mouth open",
+        "Saliva dripping"
+    ],
+    "38": [
+        "dumpster",
+        "trash"
+    ],
+    "39": [
+        "eyebrows being colored",
+        "application of eyebrow dye"
+    ],
+    "40": [
+        "needlework",
+        "threading stitches"
+    ],
+    "41": [
+        "fencer wearing protective gear",
+        "two fencers in a duel"
+    ],
+    "42": [
+        "bicycle stand",
+        "wrench"
+    ],
+    "43": [
+        "flint",
+        "knapping"
+    ],
+    "44": [
+        "Hands manipulating colorful threads",
+        "Tying intricate knots with precision"
+    ],
+    "45": [
+        "outdoor",
+        "treasure hunt"
+    ],
+    "46": [
+        "Piercing needle",
+        "Body part being pierced"
+    ],
+    "47": [
+        "river",
+        "panning pan"
+    ],
+    "48": [
+        "Church interior",
+        "Gospel choir"
+    ],
+    "49": [
+        "person doing a headstand",
+        "upside down body"
+    ],
+    "50": [
+        "coffee beans",
+        "roasting equipment"
+    ],
+    "51": [
+        "emotionally touching",
+        "tender affection"
+    ],
+    "52": [
+        "Freezing water",
+        "Braving the cold"
+    ],
+    "53": [
+        "hair straightener",
+        "heat protection spray"
+    ],
+    "54": [
+        "pedestrian crossing",
+        "crosswalk violation"
+    ],
+    "55": [
+        "Jumping in mid-air",
+        "Riding a bicycle"
+    ],
+    "56": [
+        "person",
+        "jumping"
+    ],
+    "57": [
+        "Microphone",
+        "Singing"
+    ],
+    "58": [
+        "Lawn mower",
+        "Racing track"
+    ],
+    "59": [
+        "concrete mixture",
+        "pouring concrete"
+    ],
+    "60": [
+        "construction site",
+        "stacked stones"
+    ],
+    "61": [
+        "lifting hat",
+        "hat on head"
+    ],
+    "62": [
+        "bonfire",
+        "matches"
+    ],
+    "63": [
+        "lock",
+        "padlock"
+    ],
+    "64": [
+        "Skateboard",
+        "Motion"
+    ],
+    "65": [
+        "Snowy track",
+        "Sledding down a slope"
+    ],
+    "66": [
+        "cheese curdling",
+        "cheese molding"
+    ],
+    "67": [
+        "Folded paper",
+        "Airplane shape"
+    ],
+    "68": [
+        "Ring",
+        "Romantic gesture"
+    ],
+    "69": [
+        "massage oil",
+        "hands"
+    ],
+    "70": [
+        "moon",
+        "walking"
+    ],
+    "71": [
+        "crowd",
+        "jumping"
+    ],
+    "72": [
+        "mountain",
+        "climber"
+    ],
+    "73": [
+        "mushroom",
+        "foraging"
+    ],
+    "74": [
+        "soft wool",
+        "sharp needle"
+    ],
+    "75": [
+        "wine bottle",
+        "corkscrew"
+    ],
+    "76": [
+        "boxes",
+        "packing materials"
+    ],
+    "77": [
+        "kicking soccer ball",
+        "soccer field"
+    ],
+    "78": [
+        "surprised expression",
+        "background activity"
+    ],
+    "79": [
+        "photocopy machine",
+        "stack of papers"
+    ],
+    "80": [
+        "Thumb and index finger touching",
+        "Squeezing fingers together"
+    ],
+    "81": [
+        "dancer",
+        "spinning"
+    ],
+    "82": [
+        "wooden plank",
+        "handsaw"
+    ],
+    "83": [
+        "Red plastic cups",
+        "Ping pong balls"
+    ],
+    "84": [
+        "Playing cards",
+        "Chips and money on the table"
+    ],
+    "85": [
+        "dartboard",
+        "dart"
+    ],
+    "86": [
+        "hockey stick",
+        "goal post"
+    ],
+    "87": [
+        "Gong being struck",
+        "Musician playing gong"
+    ],
+    "88": [
+        "children playing",
+        "hand clapping"
+    ],
+    "89": [
+        "Players with laser guns",
+        "Competitive indoor arena"
+    ],
+    "90": [
+        "Musician playing lute",
+        "Classical instrument being played"
+    ],
+    "91": [
+        "person playing maracas",
+        "musical instrument"
+    ],
+    "92": [
+        "Marbles",
+        "Child playing"
+    ],
+    "93": [
+        "music instrument",
+        "musician"
+    ],
+    "94": [
+        "person playing pan pipes",
+        "musical instrument"
+    ],
+    "95": [
+        "pinball machine",
+        "flippers"
+    ],
+    "96": [
+        "Horseback riding",
+        "Hitting a ball with mallet"
+    ],
+    "97": [
+        "rubik's cube",
+        "hand movements"
+    ],
+    "98": [
+        "train tracks",
+        "toy locomotive"
+    ],
+    "99": [
+        "Finger poking into bellybutton",
+        "Bellybutton being poked"
+    ],
+    "100": [
+        "hand holding a balloon",
+        "balloon bursting"
+    ],
+    "101": [
+        "Cutting vegetables",
+        "Mixing dressing"
+    ],
+    "102": [
+        "wheelbarrow",
+        "pushing"
+    ],
+    "103": [
+        "Contact lens case",
+        "Hands holding contact lenses"
+    ],
+    "104": [
+        "Applying eyeliner",
+        "Using a makeup brush"
+    ],
+    "105": [
+        "applying foundation",
+        "using makeup brush"
+    ],
+    "106": [
+        "applying lipstick",
+        "beautifying lips"
+    ],
+    "107": [
+        "Applying mascara",
+        "Holding mascara wand"
+    ],
+    "108": [
+        "woman wearing sari",
+        "folding fabric over the shoulder"
+    ],
+    "109": [
+        "Feet in shoes",
+        "Shoelaces being tied"
+    ],
+    "110": [
+        "expressing surprise",
+        "showing skepticism"
+    ],
+    "111": [
+        "tire",
+        "tool"
+    ],
+    "112": [
+        "ridinig",
+        "snow blower"
+    ],
+    "113": [
+        "roasting pig",
+        "fire"
+    ],
+    "114": [
+        "rolling dough",
+        "flattening dough"
+    ],
+    "115": [
+        "Fitness equipment",
+        "Exercise routine"
+    ],
+    "116": [
+        "sausage grinder",
+        "meat mixture"
+    ],
+    "117": [
+        "Wood piece",
+        "Sawing machine"
+    ],
+    "118": [
+        "Scrubbing with hands",
+        "Using a face scrub or cleanser"
+    ],
+    "119": [
+        "eggshell",
+        "yolk"
+    ],
+    "120": [
+        "needle",
+        "thread"
+    ],
+    "121": [
+        "kneading dough",
+        "flattening dough"
+    ],
+    "122": [
+        "flashlight beam",
+        "illuminated surroundings"
+    ],
+    "123": [
+        "oyster knife",
+        "oyster shells"
+    ],
+    "124": [
+        "sipping beverage",
+        "holding cup"
+    ],
+    "125": [
+        "skier on snow",
+        "skiing in a straight line"
+    ],
+    "126": [
+        "Sleeping peacefully",
+        "Resting in bed"
+    ],
+    "127": [
+        "Feet near face",
+        "Hand covering nose"
+    ],
+    "128": [
+        "pipe",
+        "smoke"
+    ],
+    "129": [
+        "dancers forming squares",
+        "traditional western-style dress"
+    ],
+    "130": [
+        "Acrobat performing a handstand",
+        "Upside down position with hands supporting the body weight"
+    ],
+    "131": [
+        "cowboy",
+        "rope"
+    ],
+    "132": [
+        "lolly",
+        "sucking"
+    ],
+    "133": [
+        "baseball bat",
+        "swinging"
+    ],
+    "134": [
+        "football player",
+        "collision"
+    ],
+    "135": [
+        "spray can",
+        "graffiti wall"
+    ],
+    "136": [
+        "person holding a cell phone",
+        "person speaking into a cell phone"
+    ],
+    "137": [
+        "wine glass",
+        "pouring wine"
+    ],
+    "138": [
+        "needle",
+        "thread"
+    ],
+    "139": [
+        "hand holding knife",
+        "knife flying through the air"
+    ],
+    "140": [
+        "Snowball in mid-air",
+        "Arm motion"
+    ],
+    "141": [
+        "crying",
+        "angry"
+    ],
+    "142": [
+        "Dye-soaked fabric",
+        "Marbled patterns"
+    ],
+    "143": [
+        "stealthy movement",
+        "uplifting posture"
+    ],
+    "144": [
+        "gardener",
+        "pruning shears"
+    ],
+    "145": [
+        "shoe",
+        "laces"
+    ],
+    "146": [
+        "microscope",
+        "sample slide"
+    ],
+    "147": [
+        "Power drill in use",
+        "Drilling into a surface"
+    ],
+    "148": [
+        "Sledge Hammer",
+        "Smashing"
+    ],
+    "149": [
+        "tool",
+        "hardware"
+    ],
+    "150": [
+        "ATM machine",
+        "Bank card"
+    ],
+    "151": [
+        "puppet show",
+        "hand gestures"
+    ],
+    "152": [
+        "vacuum cleaner",
+        "cleaning tool"
+    ],
+    "153": [
+        "animals",
+        "enclosures"
+    ],
+    "154": [
+        "water",
+        "wading"
+    ],
+    "155": [
+        "television screen",
+        "remote control"
+    ],
+    "156": [
+        "hand",
+        "gesture"
+    ],
+    "157": [
+        "eye closed",
+        "facial expression"
+    ],
+    "158": [
+        "wood carving",
+        "sculpture"
+    ],
+    "159": [
+        "yarn spools",
+        "spinning wheel"
+    ]
+}

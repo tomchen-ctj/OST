@@ -1,0 +1,31 @@
+DATA:
+    TYPE: frame
+    ROOT: '/PATH/TO/videos/folder'
+    TRAIN_FILE: 'datasets_splits/hmdb_splits/train1_few_shot_8.txt'
+    VAL_FILE: 'datasets_splits/hmdb_splits/val1.txt'
+    DATASET: hmdb51
+    NUM_FRAMES: 32
+    NUM_CLASSES: 51
+    LABEL_LIST: 'labels/hmdb_51_labels.csv'
+    DES_SPATIAL: 'descriptors/hmdb/spatio_descriptors/4_descriptors.json'
+    DES_TEMPORAL: 'descriptors/hmdb/temporal_descriptors/4_descriptors.json'
+MODEL:
+    ARCH: ViT-B/16
+TRAIN:
+    BATCH_SIZE: 4 # BS 64
+    ACCUMULATION_STEPS: 2
+    EPOCHS: 50
+    LR: 5.e-06
+TRAINER:
+  OST:
+    ZS_EVAL: False # Make True only during test mode to evaluate zero-shot vanilla CLIP performance
+    USE: "both" # both refers to complete fine-tuning of CLIP (text+image encoders)
+    N: 4
+SAVE_FREQ: 10
+AUG:
+    LABEL_SMOOTH: 0.
+    COLOR_JITTER: 0.8
+    GRAY_SCALE: 0.2
+    MIXUP: 0.
+    CUTMIX: 0.
+    MIXUP_SWITCH_PROB: 0.

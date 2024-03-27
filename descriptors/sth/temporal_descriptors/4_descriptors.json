@@ -1,0 +1,1046 @@
+{
+    "0": [
+        "Looking for the target",
+        "Analyzing the distance from the target",
+        "Adjusting camera settings for the target",
+        "Moving closer to the target while continuously focusing the camera"
+    ],
+    "1": [
+        "Position the two objects next to each other",
+        "Identify the areas on both objects where they can be attached",
+        "Align the attachment points on both objects",
+        "Securely fasten the two objects together using a suitable method or material"
+    ],
+    "2": [
+        "Grasp the object firmly with both hands.",
+        "Apply force gradually to the object in a specific direction.",
+        "Observe the object as it starts to bend and deform.",
+        "Release the force once the desired level of deformation is achieved."
+    ],
+    "3": [
+        "Grasp the object firmly with both hands.",
+        "Slowly apply pressure to the object while maintaining a steady grip.",
+        "Gradually increase the amount of force being applied to the object.",
+        "Continue bending the object until it eventually breaks."
+    ],
+    "4": [
+        "Dig a hole in the ground",
+        "Place the object inside the hole",
+        "Cover the object with soil",
+        "Pat down the soil to ensure it is firm and level"
+    ],
+    "5": [
+        "Grasp the object firmly",
+        "Move your hand towards the object",
+        "Apply pressure to the object",
+        "Release your grip on the object"
+    ],
+    "6": [
+        "Placing the covering material nearby",
+        "Laying the object to be covered on a flat surface",
+        "Unfolding the covering material",
+        "Carefully draping the covering material over the object"
+    ],
+    "7": [
+        "Insert the shovel into the ground at a specific location.",
+        "Apply pressure to the shovel to penetrate the surface.",
+        "Use a scooping motion to dig and remove the desired material.",
+        "Continue digging until the desired amount is extracted."
+    ],
+    "8": [
+        "Hold the object firmly",
+        "Turn your body slightly",
+        "Extend your arm behind you",
+        "Release your grip and let the object drop"
+    ],
+    "9": [
+        "Hold the object firmly in your hand",
+        "Extend your arm forward",
+        "Release the object from your hand",
+        "Watch as the object falls in front of the designated place"
+    ],
+    "10": [
+        "Hold the object firmly in your hand",
+        "Locate the target container or surface",
+        "Release the object from your hand",
+        "Ensure that the object has safely landed inside the container or on the surface"
+    ],
+    "11": [
+        "Hold the object firmly in your hand.",
+        "Extend your arm and position the object next to the desired location.",
+        "Release your grip on the object, ensuring that it remains stable.",
+        "Verify that the object has been successfully dropped next to the designated location."
+    ],
+    "12": [
+        "Hold the object firmly in your hand",
+        "Identify the target object or surface",
+        "Raise your hand above the target",
+        "Release your grip and let the object fall onto the target"
+    ],
+    "13": [
+        "Attempt to place the object into the container",
+        "Realize that the object does not fit inside the container",
+        "Inspect the object and the container to understand why it doesn't fit",
+        "Find a suitable alternative container for the object if available"
+    ],
+    "14": [
+        "Fold the paper in half vertically.",
+        "Fold the paper in half horizontally.",
+        "Fold the top left corner towards the center.",
+        "Fold the bottom right corner towards the center."
+    ],
+    "15": [
+        "Position yourself correctly",
+        "Grip the object firmly",
+        "Swing the object with force",
+        "Make contact with the target"
+    ],
+    "16": [
+        "Open your hand",
+        "Reach out and grasp the object",
+        "Close your hand around the object",
+        "Maintain a firm grip on the object."
+    ],
+    "17": [
+        "Reach out with one hand",
+        "Grab the object securely but gently",
+        "Bring the object behind your back",
+        "Hold the object firmly in the hidden position"
+    ],
+    "18": [
+        "Hold the object in your hand.",
+        "Extend your arm straight in front of you.",
+        "Position the object directly in front of the designated target.",
+        "Maintain a firm grip on the object."
+    ],
+    "19": [
+        "Grasp the object firmly",
+        "Position the object next to the target",
+        "Hold the object at the same level as the target",
+        "Ensure that the object remains securely held next to the target"
+    ],
+    "20": [
+        "Grasp the object firmly in your hand.",
+        "Place your hand over the desired location where you want to hold the object.",
+        "Ensure that your hand is stable and secure in its position over the object.",
+        "Maintain a firm grip on the object while keeping it held securely over the desired location."
+    ],
+    "21": [
+        "Place the object next to the table.",
+        "Gently push the object towards the edge of the table.",
+        "Slowly tilt the object onto its side.",
+        "Ensure the object is stably resting on the table surface."
+    ],
+    "22": [
+        "Place the object on the flat surface",
+        "Give the object a gentle push",
+        "Observe the object as it rolls along the surface",
+        "Stop the object when desired"
+    ],
+    "23": [
+        "Place the object at the top of the slanted surface",
+        "Release the object, allowing it to start rolling down the surface",
+        "Observe the object as it moves down the slanted surface",
+        "Stop the object from rolling at the desired location"
+    ],
+    "24": [
+        "Position the slanted surface at an angle.",
+        "Place the object at the beginning of the slanted surface.",
+        "Release the object.",
+        "Observe as the object rolls down the slanted surface."
+    ],
+    "25": [
+        "Hold the edges of the surface firmly",
+        "Lift the surface slowly and steadily",
+        "Ensure that the object on the surface remains stable",
+        "Maintain a secure grip on the surface and slowly release it"
+    ],
+    "26": [
+        "Position yourself in front of the surface.",
+        "Place both hands firmly on the surface.",
+        "Apply force while slowly lifting the surface.",
+        "Observe and stop lifting when the surface starts sliding down."
+    ],
+    "27": [
+        "Approach the object from a stable position",
+        "Bend your knees and lower yourself to the ground",
+        "Reach down and firmly grasp the object with both hands",
+        "Engage your leg muscles and slowly straighten your knees, lifting the object off the ground completely"
+    ],
+    "28": [
+        "Gripping the object firmly",
+        "Lifting the object off the ground",
+        "Raising the object to a desired height",
+        "Releasing the grip to allow the object to fall freely"
+    ],
+    "29": [
+        "Locate the object to be lifted",
+        "Position the lifting tool near the object",
+        "Engage the lifting tool with the object",
+        "Apply force to lift the object"
+    ],
+    "30": [
+        "Slowly squat down to reach one end of the object.",
+        "Ensure a firm grip on the end of the object.",
+        "Engage your leg muscles to gradually stand upright while keeping the object lifted.",
+        "Carefully release your grip on the end of the object."
+    ],
+    "31": [
+        "Grasp one end of the object firmly.",
+        "Lift the grasped end of the object upwards.",
+        "Release the grip on the object.",
+        "Allow the object to drop down freely."
+    ],
+    "32": [
+        "Adjust the focus of the camera",
+        "Hold the camera firmly with both hands",
+        "Slowly move your body away from the subject",
+        "Continue to keep the subject in frame as you move"
+    ],
+    "33": [
+        "Grip the intended part of the object firmly",
+        "Lift the part of the object slowly",
+        "Move the part of the object to the desired location",
+        "Place the part of the object gently in its new position"
+    ],
+    "34": [
+        "Slide the object across the surface",
+        "Continue sliding until the object loses balance",
+        "Observe the object tipping over",
+        "Allow the object to fall down"
+    ],
+    "35": [
+        "Place the object on the surface",
+        "Hold the object firmly",
+        "Slide or push the object across the surface",
+        "Maintain a steady and controlled movement"
+    ],
+    "36": [
+        "Grasp one object firmly",
+        "Grasp the other object firmly",
+        "Begin to pull both objects in opposite directions",
+        "Continue pulling until the objects are separated"
+    ],
+    "37": [
+        "Approach the objects to be moved.",
+        "Grab one object securely.",
+        "Pull the object towards the other object.",
+        "Release the object in its new position."
+    ],
+    "38": [
+        "Pick up the first object",
+        "Move the first object towards the second object",
+        "Pick up the second object",
+        "Move the second object towards the first object"
+    ],
+    "39": [
+        "Slide one object to the side.",
+        "Create a clear path between the objects.",
+        "Move the second object from behind the first object.",
+        "Ensure that both objects have successfully passed each other."
+    ],
+    "40": [
+        "Pick up the object",
+        "Hold the object firmly",
+        "Move your hand away from the other object",
+        "Place the object in its new location"
+    ],
+    "41": [
+        "Grab the object with your hand",
+        "Lift the object off the surface",
+        "Extend your arm away from your body",
+        "Move your arm and the object away from the camera"
+    ],
+    "42": [
+        "Approach the object",
+        "Extend your arm towards the object",
+        "Grasp the object firmly",
+        "Pull the object closer to the desired location"
+    ],
+    "43": [
+        "Hold the object securely",
+        "Lower the object slowly and steadily",
+        "Maintain a strong grip on the object",
+        "Place the object gently in the desired position"
+    ],
+    "44": [
+        "Adjust the angle of the camera towards the object",
+        "Ensure there is enough space in front of the camera for the movement",
+        "Position the object in the frame to be visible",
+        "Gradually move the object closer to the camera"
+    ],
+    "45": [
+        "Grasp the object firmly",
+        "Lift the object using your arms",
+        "Raise the object above the initial position",
+        "Hold the object at the desired height"
+    ],
+    "46": [
+        "Locate the object to be opened",
+        "Grasp the object firmly",
+        "Apply force to the object in order to separate its parts",
+        "Verify that the object is fully opened"
+    ],
+    "47": [
+        "Approach the object",
+        "Bend down or squat to reach a comfortable position",
+        "Grasp the object firmly with your hand",
+        "Lift the object off the ground"
+    ],
+    "48": [
+        "Gather the materials",
+        "Prepare the base",
+        "Stack the items",
+        "Repeat stacking until desired height is achieved"
+    ],
+    "49": [
+        "Identify the object you want to plug into something",
+        "Locate the appropriate socket or outlet for plugging",
+        "Ensure that the object and the socket are compatible and will fit properly",
+        "Insert the object into the socket until it is securely connected"
+    ],
+    "50": [
+        "Extend your arm towards the object you want to plug into.",
+        "Align the plug with the socket and push it gently inside.",
+        "Quickly retract your arm while gripping the plug firmly.",
+        "Remove your hand completely, making sure the plug is disconnected."
+    ],
+    "51": [
+        "Hold the object firmly with one hand.",
+        "Take a pointed object, such as a needle or a pin.",
+        "Position the pointed object against the surface of the substance.",
+        "Apply pressure and push the pointed object into the substance to create a hole."
+    ],
+    "52": [
+        "Hold the sharp object firmly in your hand",
+        "Position the sharp object at the desired location on the soft surface",
+        "Apply pressure with the sharp object to create a hole",
+        "Remove the sharp object from the newly created hole"
+    ],
+    "53": [
+        "Approach the stack with caution",
+        "Extend your finger or object toward the stack",
+        "Apply gentle pressure to the topmost layer of the stack",
+        "Observe as the stack collapses and adjusts to the force applied"
+    ],
+    "54": [
+        "Position your hand next to the stack",
+        "Extend your index finger",
+        "Poke the side of the stack with your finger",
+        "Retract your finger quickly"
+    ],
+    "55": [
+        "Extend your arm towards the object",
+        "Move your index finger forward",
+        "Touch the object with your fingertip",
+        "Apply slight pressure to the object"
+    ],
+    "56": [
+        "Extend your arm towards the object you wish to poke.",
+        "Gently position your index finger or any other suitable digit in close proximity to the object.",
+        "Apply a minimal amount of force to make contact with the object.",
+        "Retract your finger, ensuring the object remains relatively undisturbed."
+    ],
+    "57": [
+        "Extend your arm out towards the object",
+        "Use your index finger to apply pressure to the object",
+        "Continue pushing until the object loses balance",
+        "Observe as the object topples over"
+    ],
+    "58": [
+        "Extend your arm towards the object",
+        "Use your index finger and push it against the object",
+        "Apply a gentle force to make the object rotate",
+        "Observe the object spinning around"
+    ],
+    "59": [
+        "Pick up the container that you want to pour from.",
+        "Position the container over the target container where you want to pour into.",
+        "Tilt the first container slowly to start pouring its contents into the second container.",
+        "Continue pouring until all the contents have been transferred."
+    ],
+    "60": [
+        "Hold the container firmly.",
+        "Gently pour the liquid into the container.",
+        "Monitor the level of the liquid to prevent overflowing.",
+        "Stop pouring once the liquid starts to overflow."
+    ],
+    "61": [
+        "Hold the container firmly",
+        "Tilt the container slightly",
+        "Pour the liquid slowly",
+        "Direct the pour towards the target surface"
+    ],
+    "62": [
+        "Hold the container that you want to pour from firmly.",
+        "Position the empty container or the desired receptacle to catch the poured contents.",
+        "Tilt the container that you are pouring from at an appropriate angle.",
+        "Control the speed and direction while gradually emptying the container by pouring the contents into the desired receptacle."
+    ],
+    "63": [
+        "Reach for a cloth or tissue",
+        "Position the cloth or tissue on the surface of the object",
+        "Rub the cloth or tissue against the object in an attempt to remove the residue",
+        "Inspect the object to check if the residue has been successfully wiped off"
+    ],
+    "64": [
+        "Grasp the object firmly with both hands",
+        "Apply rotational force to the object in an attempt to twist it",
+        "Feel resistance as the object refuses to twist",
+        "Release your grip on the object as you realize your attempt to twist it has failed"
+    ],
+    "65": [
+        "Hold the object with both hands.",
+        "Pretend to exert force by pulling the object apart.",
+        "Make tearing sound effects using your mouth.",
+        "Gradually release the object and act surprised by its untearable nature."
+    ],
+    "66": [
+        "Approach the object to be closed",
+        "Extend your hand towards the object",
+        "Move your hand as if you're gripping the object",
+        "Stop before actually closing your hand"
+    ],
+    "67": [
+        "Hold the object with both hands",
+        "Pretend to twist the object as if opening it",
+        "Gently push the object as if it's being pushed open",
+        "Release the object without actually opening it"
+    ],
+    "68": [
+        "Extend your arm towards the object you want to pick up",
+        "Bend your torso slightly forward",
+        "Bring your fingers close to the object",
+        "Close your fingers around the object"
+    ],
+    "69": [
+        "Extend your arm towards the object",
+        "Curl your hand into a fist",
+        "Extend your index finger while keeping the other fingers curled",
+        "Touch the object softly with your index finger"
+    ],
+    "70": [
+        "Hold the empty container upside down",
+        "Tilt the container forward as if pouring something out",
+        "Make a pouring motion with your hand",
+        "Simulate the sound of liquid being poured"
+    ],
+    "71": [
+        "Grasp the object with one hand",
+        "Bring the object towards the back of the other hand",
+        "Move the hand with the object behind the other hand",
+        "Release the object behind the other hand"
+    ],
+    "72": [
+        "Reach out and pick up the object",
+        "Hold the object near the target container",
+        "Perform a gesture as if you are placing the object into the container",
+        "Move your hand away from the container while still pretending to hold the object"
+    ],
+    "73": [
+        "Extend arm towards the target object",
+        "Open hand to prepare for placement",
+        "Move hand closer to the target object",
+        "Gently place the object next to the target object"
+    ],
+    "74": [
+        "Reach for the object",
+        "Extend arm towards the surface",
+        "Open hand and move it closer to the surface",
+        "Slowly lower hand and place the object on the surface"
+    ],
+    "75": [
+        "Extend arm towards the object",
+        "Hold the object firmly in your hand",
+        "Move the hand with the object towards the target surface",
+        "Gently release the object onto the target surface"
+    ],
+    "76": [
+        "Hold the object in your hand.",
+        "Position your hand underneath the desired surface.",
+        "Slowly lower your hand to simulate placing the object underneath the surface.",
+        "Maintain a steady grip on the object without making actual contact with the surface."
+    ],
+    "77": [
+        "Extend your arm towards the object",
+        "Open your hand",
+        "Position the scooping tool under the object",
+        "Gradually close your hand to scoop up the object"
+    ],
+    "78": [
+        "Hold your hand in a cupping shape",
+        "Move your hand in a sweeping motion",
+        "Pretend to grab air from the surrounding",
+        "Imitate spreading the air onto something"
+    ],
+    "79": [
+        "Hold hand slightly above the object",
+        "Make a sweeping motion downwards with fingers spread",
+        "Make a sound like air rushing out",
+        "Repeat the motion and sound multiple times"
+    ],
+    "80": [
+        "Choose an object to pretend to squeeze",
+        "Hold the object with your hands",
+        "Apply pressure to the object as if you are squeezing it",
+        "Release the pressure and let go of the object"
+    ],
+    "81": [
+        "Extend arm towards the target object",
+        "Open hand to simulate grasping the object",
+        "Move arm back towards the body",
+        "Close hand to simulate taking hold of the object"
+    ],
+    "82": [
+        "Reach into the container",
+        "Grasp the object firmly",
+        "Slowly pull the object out",
+        "Carefully release the object from your grip"
+    ],
+    "83": [
+        "Extend arm holding the object",
+        "Simulate a throwing motion with arm",
+        "Release grip on the object",
+        "Bring arm back to starting position"
+    ],
+    "84": [
+        "Hold the object firmly with both hands",
+        "Rotate the object 180 degrees",
+        "Ensure that the top side is facing downwards",
+        "Lower the object gently to complete the upside-down motion"
+    ],
+    "85": [
+        "Reach behind the object",
+        "Grasp the item firmly",
+        "Pull the item towards you",
+        "Remove the item completely from behind the object"
+    ],
+    "86": [
+        "Grasp the object firmly with your left hand",
+        "Start pulling the object towards the right",
+        "Maintain a steady and controlled pulling motion",
+        "Continue pulling the object until it reaches the desired position on the right"
+    ],
+    "87": [
+        "Grasp the object firmly with your right hand",
+        "Shift your body weight to the left side",
+        "Extend your right arm towards the left",
+        "Pull the object towards the left side with a steady force"
+    ],
+    "88": [
+        "Grasp the object firmly with your hands",
+        "Pull the object towards your body with a steady force",
+        "Aim for the desired location on the target surface",
+        "Release the object onto the target surface"
+    ],
+    "89": [
+        "Grasping the object firmly with one hand",
+        "Applying a steady upward force while maintaining a firm grip",
+        "Slowly and steadily removing the object from its original position",
+        "Releasing the object once it is completely pulled out"
+    ],
+    "90": [
+        "Grasp both ends firmly with your hands",
+        "Apply equal force in opposite directions",
+        "Check if any resistance is encountered",
+        "Repeat the process with increased force if necessary"
+    ],
+    "91": [
+        "Hold one end firmly with your hand.",
+        "Hold the other end firmly with your other hand.",
+        "Gradually exert force in opposite directions.",
+        "Continue pulling until the object is stretched."
+    ],
+    "92": [
+        "Hold the ends firmly with both hands.",
+        "Apply equal and opposite force by pulling the ends apart.",
+        "Continue pulling until the object separates into two pieces.",
+        "Release the ends."
+    ],
+    "93": [
+        "Position yourself on the left side of the object to be pushed",
+        "Place your hands on the object",
+        "Apply force with your hands in a pushing motion",
+        "Continue pushing until the object reaches the desired position on the right side"
+    ],
+    "94": [
+        "Grasp the object firmly with your right hand",
+        "Apply force with your right hand to the right side of the object",
+        "Continuously push the object towards the left",
+        "Release your grip on the object once it reaches the desired position"
+    ],
+    "95": [
+        "Position yourself next to the object you want to push off of something.",
+        "Extend your arm and place your hand on the object.",
+        "Apply force by pushing against the object with your hand.",
+        "Continue pushing until the object moves off of the surface."
+    ],
+    "96": [
+        "Align the object to be pushed with the target surface.",
+        "Apply force to the object in the direction of the target surface.",
+        "Continue pushing until the object comes into contact with the target surface.",
+        "Maintain pressure on the object to ensure it remains securely pushed onto the target surface."
+    ],
+    "97": [
+        "Hold the object firmly",
+        "Apply force to one side of the object",
+        "Continue pushing until the object starts spinning",
+        "Release the object once it is spinning"
+    ],
+    "98": [
+        "Position yourself behind the object",
+        "Place your hands on the object",
+        "Apply force in the direction of the object's movement",
+        "Gradually reduce the force applied to prevent it from falling off"
+    ],
+    "99": [
+        "Position yourself next to the table.",
+        "Extend your arm towards the object.",
+        "Push the object with enough force.",
+        "Observe as the object falls off the table."
+    ],
+    "100": [
+        "Apply force to the object in the desired direction",
+        "Increase the force gradually to prevent sudden movement",
+        "Observe the object as it starts to move",
+        "Release the force once the object has slightly moved"
+    ],
+    "101": [
+        "Position yourself behind the object you want to push",
+        "Place your hands on the object, ensuring a firm grip",
+        "Extend your legs and engage your core muscles",
+        "Push forward with force while maintaining control"
+    ],
+    "102": [
+        "Count the number of items.",
+        "Take the items and place them on a surface.",
+        "Identify the area or location on the surface where you want to put the items.",
+        "Carefully place the counted items onto the specified area or location on the surface."
+    ],
+    "103": [
+        "Pick up something from its current location",
+        "Carry the something to the table",
+        "Place the something gently on the table",
+        "Repeat the above steps for the second something"
+    ],
+    "104": [
+        "Hold the object you want to put behind something in your hand",
+        "Identify the location where you want to put the object behind",
+        "Position yourself and the object in front of the target location",
+        "Move your hand backwards, placing the object behind the target"
+    ],
+    "105": [
+        "Position the object you want to put in front of another object nearby.",
+        "Locate the object in front of which you want to put the other object.",
+        "Reach out and pick up the object you want to put in front.",
+        "Place the object in front of the other object, ensuring it is positioned correctly."
+    ],
+    "106": [
+        "Hold the object firmly in your hand",
+        "Open the container or receptacle",
+        "Place the object inside the container",
+        "Close and secure the container to ensure the object is safely inside"
+    ],
+    "107": [
+        "Position the first object next to the second object.",
+        "Align the edges of the two objects.",
+        "Ensure that there is no gap between the two objects.",
+        "Double-check the placement and adjust if necessary."
+    ],
+    "108": [
+        "Place the item on the flat surface.",
+        "Ensure that the item is positioned in a stable and balanced manner.",
+        "Make sure that the item is securely supported by the flat surface.",
+        "Take precautions to prevent any rolling movement of the item."
+    ],
+    "109": [
+        "Place the item near the surface.",
+        "Extend your arm and grip the item firmly.",
+        "Lift the item off the ground.",
+        "Carefully lower the item onto the surface."
+    ],
+    "110": [
+        "Place the object on the edge of the surface.",
+        "Ensure that the object is not supported by any other means.",
+        "Remove any additional support gradually.",
+        "Observe as the object falls down from the edge."
+    ],
+    "111": [
+        "Place the object at the top of the slanted surface.",
+        "Tilt the slanted surface in such a way that the higher end is lower than the lower end.",
+        "Adjust the angle and position of the surface to prevent the object from sliding down.",
+        "Ensure that the object remains stable and secure on the slanted surface."
+    ],
+    "112": [
+        "Hold the object with one hand",
+        "Place the other hand on the surface where the object will be placed",
+        "Align the object with the desired position on the surface",
+        "Gently release the object and let it rest on the surface"
+    ],
+    "113": [
+        "Hold the object to be placed on top.",
+        "Identify a surface that can support the weight of the object.",
+        "Carefully place the object on top of the identified surface.",
+        "Ensure that the object is balanced and secure before releasing."
+    ],
+    "114": [
+        "Place the item next to the existing objects on the table",
+        "Align the new item with the other objects already on the table",
+        "Arrange the item in a way that it matches the existing objects",
+        "Ensure that the new item blends in seamlessly with the other objects on the table"
+    ],
+    "115": [
+        "Hold the object securely",
+        "Position the slanted surface at an angle",
+        "Place the non-rolling object onto the slanted surface",
+        "Release the object and allow it to slide down"
+    ],
+    "116": [
+        "Place the item on a flat surface",
+        "Secure the slanted surface to prevent movement",
+        "Carefully lift and tilt the item",
+        "Gently place the item on the slanted surface"
+    ],
+    "117": [
+        "Hold the object securely",
+        "Position the object vertically above the table",
+        "Release the object gently",
+        "Observe as the object falls onto its side"
+    ],
+    "118": [
+        "Lay the object that will be placed underneath on a flat surface.",
+        "Position the other object above the first object.",
+        "Align the edges of the two objects.",
+        "Gently lower the second object onto the first object."
+    ],
+    "119": [
+        "Lift the object from the ground",
+        "Rotate the object to a vertical position",
+        "Place the bottom of the object on the table",
+        "Release the object to let it stand upright"
+    ],
+    "120": [
+        "Placing the first item on the table",
+        "Putting the second item on the table",
+        "Arranging the third item on the table",
+        "Positioning the fourth item on the table"
+    ],
+    "121": [
+        "Identify the object to be removed",
+        "Gently grasp the object",
+        "Apply steady and even pressure to remove the object",
+        "Observe the revealed object behind"
+    ],
+    "122": [
+        "Place the object on the flat surface",
+        "Push the object forward with a gentle force",
+        "Keep rolling the object in the same direction",
+        "Stop rolling when desired distance is reached"
+    ],
+    "123": [
+        "Position the scoop tool above the target object",
+        "Lower the scoop tool until it is just touching the surface of the object",
+        "Apply pressure to the scoop tool to scoop up the object",
+        "Lift the scoop tool upwards to fully remove the object from the surface"
+    ],
+    "124": [
+        "Hold the photo in front of the camera",
+        "Position the photo so that it is aligned with the camera's view",
+        "Ensure that the photo is well-lit and visible to the camera",
+        "Capture the photo using the camera"
+    ],
+    "125": [
+        "Move the object in front of the thing you want to show.",
+        "Adjust the position of the object to ensure it is properly aligned with the thing behind.",
+        "Ensure that the object is not obstructing the view of the thing you want to show.",
+        "Stand back and ensure that the thing behind is clearly visible."
+    ],
+    "126": [
+        "Position the first object to the left of the second object",
+        "Align the edges of the first object with the edges of the second object",
+        "Ensure that the first object is adjacent to the second object",
+        "Place the first object in close proximity to the second object"
+    ],
+    "127": [
+        "Place the object on top of the surface.",
+        "Ensure that the object is stable and balanced on the surface.",
+        "Adjust the position of the object, if necessary, to ensure visibility.",
+        "Confirm that the object is clearly visible on top of the surface."
+    ],
+    "128": [
+        "Hold the object in front of the camera",
+        "Ensure the entire object is visible in the camera frame",
+        "Position the object at an appropriate distance from the camera",
+        "Adjust the camera settings, if necessary, to capture clear and well-lit images of the object"
+    ],
+    "129": [
+        "Check if there are any items present",
+        "Inspect the container to ensure there is no visible content",
+        "Shake or tap the container to confirm that it is empty",
+        "Examine the container from different angles to verify emptiness"
+    ],
+    "130": [
+        "Prepare the two objects that will be used for demonstration.",
+        "Hold one object in your hand and clearly display it.",
+        "Open the other object to reveal its interior.",
+        "Place the first object inside the open second object."
+    ],
+    "131": [
+        "The object approaches the deflecting surface.",
+        "The deflecting surface alters the direction of the object.",
+        "The object deviates from its original path.",
+        "The object continues on its new trajectory."
+    ],
+    "132": [
+        "Detect the collision between the two objects",
+        "Calculate the angle of incidence and angle of deflection",
+        "Apply a force to the first object in the direction opposite to the angle of deflection",
+        "Apply a force to the second object in the direction of the angle of deflection"
+    ],
+    "133": [
+        "The object collides with another object.",
+        "Both objects experience a force upon collision.",
+        "The force causes both objects to slow down.",
+        "Both objects eventually come to a complete stop."
+    ],
+    "134": [
+        "Start by holding the feather or paper at a height.",
+        "Release the feather or paper by letting go of it.",
+        "Watch as the feather or paper begins to descend towards the ground.",
+        "Observe the graceful and slow movement of the feather or paper as it falls."
+    ],
+    "135": [
+        "Gravity pulls the object downwards",
+        "The object gains momentum while falling",
+        "The object accelerates as it falls",
+        "The object hits the ground or another surface"
+    ],
+    "136": [
+        "Take the object that is behind the spilled substance",
+        "Gently lift the object and place it aside",
+        "Use a paper towel or cloth to wipe the spilled substance",
+        "Carefully clean the area behind the object using a suitable cleaning solution"
+    ],
+    "137": [
+        "Place the object next to another object",
+        "Tilt the container holding the liquid",
+        "Pour the liquid from the container",
+        "Accidentally spill the liquid next to the object"
+    ],
+    "138": [
+        "Grab a container with the substance to be spilled",
+        "Hold the container steadily over the target surface",
+        "Tilt the container slowly to start the spill",
+        "Continue tilting until the desired amount is spilled"
+    ],
+    "139": [
+        "Hold the object firmly with your hand.",
+        "Give it a strong initial spin in any direction.",
+        "Release the object while maintaining its spinning motion.",
+        "Observe the object as it continues to spin."
+    ],
+    "140": [
+        "Hold the spinning object firmly",
+        "Gradually reduce the applied force to the spinning object",
+        "Wait for the spinning object to slow down",
+        "Release the spinning object"
+    ],
+    "141": [
+        "Preparing the spreading material",
+        "Holding the spreading material with one hand",
+        "Taking the container or surface to be spread on with the other hand",
+        "Slowly and evenly spreading the material onto the container or surface"
+    ],
+    "142": [
+        "Take the sprinkling material in your hand",
+        "Raise your hand slightly above the target surface",
+        "Open your fingers to allow the sprinkling material to fall down in a controlled manner",
+        "Move your hand horizontally or vertically to evenly distribute the sprinkling material onto the surface."
+    ],
+    "143": [
+        "Grasp the object firmly with both hands.",
+        "Apply pressure evenly on the object with your hands.",
+        "Slowly squeeze the object to compress it.",
+        "Release the pressure and let go of the object."
+    ],
+    "144": [
+        "Collect a set of objects to stack",
+        "Place the first object on a flat surface",
+        "Carefully stack the second object on top of the first object",
+        "Continue stacking the remaining objects on top of each other until the desired number is achieved"
+    ],
+    "145": [
+        "Inserting",
+        "Pressing",
+        "Securing",
+        "Verifying"
+    ],
+    "146": [
+        "Reach out and grasp one of the similar things on the table",
+        "Lift the chosen similar thing off the table",
+        "Move your hand back towards your body while holding the chosen similar thing",
+        "Place the chosen similar thing in a desired location"
+    ],
+    "147": [
+        "Locate the object in the designated place.",
+        "Grasp the object with your hand.",
+        "Lift the object from its current position.",
+        "Transfer the object to the desired location."
+    ],
+    "148": [
+        "Open the container",
+        "Reach inside the container",
+        "Grasp the object",
+        "Remove the object from the container"
+    ],
+    "149": [
+        "Hold the object firmly in both hands.",
+        "Apply force in opposite directions to create tension.",
+        "Pull the object apart with a quick, decisive motion.",
+        "Observe the object as it splits into two distinct pieces."
+    ],
+    "150": [
+        "Hold the object firmly in your hands.",
+        "Gently apply pressure to the object with your fingers.",
+        "Feel a slight resistance as the material begins to tear.",
+        "Stop applying pressure once you have achieved the desired level of tearing."
+    ],
+    "151": [
+        "Grip the object firmly with your hand",
+        "Swing your arm back to generate momentum",
+        "Extend your arm forward and release the object",
+        "Follow through with your arm movement to ensure accuracy"
+    ],
+    "152": [
+        "Hold the object firmly in your hand",
+        "Aim at the target you want to throw the object against",
+        "Swing your arm back as you prepare to release the object",
+        "Thrust your arm forward with force, releasing the object towards the target"
+    ],
+    "153": [
+        "Lift the object with your hand",
+        "Throw the object upward into the air",
+        "Keep your eyes focused on the trajectory of the object",
+        "Extend your arm and catch the object as it falls down"
+    ],
+    "154": [
+        "Hold the object firmly in your hand",
+        "Raise your arm upward",
+        "Release the object from your hand with an upwards flick",
+        "Watch the object as it falls back down to the ground."
+    ],
+    "155": [
+        "Hold the object firmly in your hand",
+        "Swing your arm backward to generate momentum",
+        "Extend your arm forward and release your grip on the object",
+        "Aim for the desired surface and throw the object with a smooth and controlled motion"
+    ],
+    "156": [
+        "Position the object on a stable surface.",
+        "Gently hold the object with one hand.",
+        "Use your other hand to apply slight pressure while tilting the object.",
+        "Maintain control and stability to prevent the object from falling down."
+    ],
+    "157": [
+        "Position the object with something on it at an angle.",
+        "Slowly tilt the object with the supporting item.",
+        "Continue tilting until the object starts to lose balance.",
+        "Observe as the object falls off the supporting item."
+    ],
+    "158": [
+        "Position the object to be tipped over in a stable and secure location.",
+        "Grip the object firmly with both hands.",
+        "Slowly tilt the object towards one side.",
+        "Continue tilting until the object goes past its tipping point and starts to fall over."
+    ],
+    "159": [
+        "Hold the container firmly",
+        "Tilt the container slowly",
+        "Ensure the opening is facing downwards",
+        "Continue tilting until the desired amount falls out"
+    ],
+    "160": [
+        "Place your hand on the desired part of something.",
+        "Apply gentle pressure to feel the texture or surface.",
+        "Keep your hand steady and fixed in position.",
+        "Do not move or lift your hand while maintaining contact with the part."
+    ],
+    "161": [
+        "Attempt to attach the object to the surface",
+        "Apply pressure to ensure good contact",
+        "Realize that the object is not sticking",
+        "Reevaluate the attachment method and try again"
+    ],
+    "162": [
+        "Examine the object to identify its material composition.",
+        "Assess the physical properties of the object to determine its flexibility and limitations.",
+        "Apply gradual and consistent pressure to the object in an attempt to bend it.",
+        "Observe and analyze the results to understand the response of the object."
+    ],
+    "163": [
+        "Hold the container of the substance firmly",
+        "Aim the opening of the container towards the target container",
+        "Gradually tilt the container to start pouring the substance",
+        "Accidentally miss the target container and spill the substance next to it"
+    ],
+    "164": [
+        "Hold the object securely",
+        "Rotate the object 180 degrees",
+        "Carefully lower the object down",
+        "Release your grip on the object"
+    ],
+    "165": [
+        "Hold the camera securely",
+        "Locate the camera viewfinder or monitor",
+        "Gradually tilt the camera downwards",
+        "Continue filming while maintaining the downward angle"
+    ],
+    "166": [
+        "Hold the camera firmly with both hands.",
+        "Rotate the camera in a counter-clockwise direction.",
+        "Maintain a smooth and steady motion during the rotation.",
+        "Continue filming while the camera is turning left."
+    ],
+    "167": [
+        "Hold the camera firmly with both hands.",
+        "Rotate your upper body to the right.",
+        "Move your arms slowly and smoothly to turn the camera right.",
+        "Keep your eyes focused on the subject while filming."
+    ],
+    "168": [
+        "Hold the camera steadily",
+        "Release the lock mechanism on the camera swivel",
+        "Gradually tilt the camera upwards",
+        "Continue filming while maintaining the upward angle"
+    ],
+    "169": [
+        "Grasp the wet object firmly with both hands",
+        "Twist the object in opposite directions",
+        "Continue twisting until you feel resistance",
+        "Release the object and collect the water that comes out"
+    ],
+    "170": [
+        "Hold the object firmly",
+        "Rotate your hand and wrist in opposite directions",
+        "Continue twisting until desired result is achieved",
+        "Release your grip on the object"
+    ],
+    "171": [
+        "Removing the cover or the object that is concealing something",
+        "Peeling back the layers or material that are hiding something",
+        "Lifting or pulling off the surface or obstruction that is covering something",
+        "Revealing or exposing what was previously hidden or obscured"
+    ],
+    "172": [
+        "Hold the object firmly in both hands.",
+        "Identify the folds or creases of the object.",
+        "Gradually unfold and straighten the object, starting from one end.",
+        "Continue unfolding until the entire object is completely open."
+    ],
+    "173": [
+        "Grab a clean cloth or paper towel",
+        "Dampen the cloth or paper towel with water or cleaning solution",
+        "Gently wipe the target area in a controlled and consistent motion",
+        "Check for any residue or streaks and repeat the wiping process if necessary"
+    ]
+}

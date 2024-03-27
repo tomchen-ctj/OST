@@ -1,0 +1,608 @@
+{
+    "0": [
+        "applying mascara",
+        "holding a makeup brush",
+        "applying eyeshadow",
+        "using an eyelash curler"
+    ],
+    "1": [
+        "lipstick application",
+        "makeup routine",
+        "beauty routine",
+        "cosmetics application"
+    ],
+    "2": [
+        "bow",
+        "arrow",
+        "target",
+        "bullseye"
+    ],
+    "3": [
+        "Baby crawling on the floor",
+        "Infant moving on all fours",
+        "Little one exploring by crawling",
+        "Cute baby exploring the environment"
+    ],
+    "4": [
+        "gymnast",
+        "beam",
+        "balance",
+        "competition"
+    ],
+    "5": [
+        "band",
+        "marching",
+        "musical instruments",
+        "uniforms"
+    ],
+    "6": [
+        "baseball",
+        "pitch",
+        "ball",
+        "throw"
+    ],
+    "7": [
+        "basketball court",
+        "hoop",
+        "basketball",
+        "dribbling"
+    ],
+    "8": [
+        "basketball",
+        "hoop",
+        "dunk",
+        "jump"
+    ],
+    "9": [
+        "gym equipment",
+        "weightlifting",
+        "barbell",
+        "fitness training"
+    ],
+    "10": [
+        "Bicycle",
+        "Helmet",
+        "Cycling path",
+        "Mountain bike"
+    ],
+    "11": [
+        "pool table",
+        "billiard balls",
+        "cue stick",
+        "rack"
+    ],
+    "12": [
+        "Blow dryer",
+        "Hair brush",
+        "Hairdryer plug",
+        "Blowing hair"
+    ],
+    "13": [
+        "Birthday cake with lit candles",
+        "Blowing out candles",
+        "Celebration",
+        "Wishes and blessings"
+    ],
+    "14": [
+        "Gym equipment",
+        "Squat rack",
+        "Barbell",
+        "Weight plates"
+    ],
+    "15": [
+        "bowling ball",
+        "bowling pins",
+        "bowling alley",
+        "bowling shoes"
+    ],
+    "16": [
+        "boxing gloves",
+        "punching bag",
+        "boxing stance",
+        "powerful punches"
+    ],
+    "17": [
+        "Boxing gloves",
+        "Speed bag",
+        "Punching",
+        "Training"
+    ],
+    "18": [
+        "Swimming pool",
+        "Water",
+        "Swim cap",
+        "Goggles"
+    ],
+    "19": [
+        "Toothbrush",
+        "Toothpaste",
+        "Running water",
+        "Mirror"
+    ],
+    "20": [
+        "barbell",
+        "weight plates",
+        "lifting motion",
+        "overhead position"
+    ],
+    "21": [
+        "cliff",
+        "dive",
+        "water",
+        "height"
+    ],
+    "22": [
+        "Cricketer in action",
+        "Bowling stance",
+        "Throwing the ball",
+        "Delivery stride"
+    ],
+    "23": [
+        "bat",
+        "ball",
+        "player",
+        "wicket"
+    ],
+    "24": [
+        "knife",
+        "cutting board",
+        "vegetables",
+        "kitchen counter"
+    ],
+    "25": [
+        "Swimming pool",
+        "Jumping",
+        "Water splash",
+        "Professional diving board"
+    ],
+    "26": [
+        "drummer",
+        "drum kit",
+        "drumsticks",
+        "rhythm"
+    ],
+    "27": [
+        "Fencer with sword",
+        "Protective gear",
+        "Fencing mask",
+        "Fence weapon"
+    ],
+    "28": [
+        "Field hockey ball",
+        "Goalkeeper",
+        "Player with a hockey stick",
+        "Penalty stroke"
+    ],
+    "29": [
+        "gymnast",
+        "floor mat",
+        "flipping",
+        "balance beam"
+    ],
+    "30": [
+        "Frisbee in mid-air",
+        "Player reaching out to catch Frisbee",
+        "Frisbee in player's hand",
+        "Player successfully catching Frisbee"
+    ],
+    "31": [
+        "swimming movement",
+        "arms pulling forward and pushing back",
+        "kicking legs",
+        "face in the water"
+    ],
+    "32": [
+        "Golfer swinging club",
+        "Golf ball in mid-air",
+        "Golf course with greens and fairways",
+        "Follow-through motion"
+    ],
+    "33": [
+        "scissors",
+        "hair",
+        "salon",
+        "hairstylist"
+    ],
+    "34": [
+        "Hammer",
+        "Nail",
+        "Wood",
+        "Impact"
+    ],
+    "35": [
+        "athlete",
+        "hammer",
+        "throwing circle",
+        "powerful motion"
+    ],
+    "36": [
+        "handstand",
+        "pushups",
+        "balance",
+        "strength"
+    ],
+    "37": [
+        "handstand",
+        "walking",
+        "balance",
+        "strength"
+    ],
+    "38": [
+        "head massage",
+        "relaxation",
+        "wellness",
+        "therapeutic"
+    ],
+    "39": [
+        "athlete",
+        "leaping",
+        "athletic",
+        "airborne"
+    ],
+    "40": [
+        "Horses sprinting",
+        "Rider jockeying",
+        "Race track with rails",
+        "Crowd cheering"
+    ],
+    "41": [
+        "horse",
+        "rider",
+        "saddle",
+        "galloping"
+    ],
+    "42": [
+        "Hula hoop spinning",
+        "Colorful plastic ring",
+        "Circular motion",
+        "Hip movements"
+    ],
+    "43": [
+        "Figure skating",
+        "Partner",
+        "Graceful movements",
+        "Elegant costumes"
+    ],
+    "44": [
+        "Javelin",
+        "Throwing arm",
+        "Athlete",
+        "Throwing motion"
+    ],
+    "45": [
+        "juggler",
+        "balls",
+        "hand-eye coordination",
+        "entertainment"
+    ],
+    "46": [
+        "jumping",
+        "exercise",
+        "athletic",
+        "movement"
+    ],
+    "47": [
+        "Jumping",
+        "Rope",
+        "Exercise",
+        "Fitness"
+    ],
+    "48": [
+        "Kayak",
+        "Paddle",
+        "Water",
+        "Adventure"
+    ],
+    "49": [
+        "Yarn",
+        "Knitting needles",
+        "Textile",
+        "Stitches"
+    ],
+    "50": [
+        "Jumping",
+        "Athlete",
+        "Track and field",
+        "Sand pit"
+    ],
+    "51": [
+        "Fitness exercise",
+        "Leg workout",
+        "Lower body strength training",
+        "Exercise with proper form"
+    ],
+    "52": [
+        "soldiers marching",
+        "military uniforms",
+        "flags and banners",
+        "military vehicles"
+    ],
+    "53": [
+        "whisk",
+        "bowl",
+        "ingredients",
+        "spatula"
+    ],
+    "54": [
+        "mop",
+        "bucket",
+        "water",
+        "floor"
+    ],
+    "55": [
+        "Nunchucks",
+        "Weapon",
+        "Stick-like",
+        "Martial arts"
+    ],
+    "56": [
+        "Parallel bars",
+        "Fitness equipment",
+        "Gymnastics",
+        "Strength training"
+    ],
+    "57": [
+        "Pizza dough being tossed in the air",
+        "Pizza chef spinning the dough",
+        "Dough being stretched and twirled",
+        "Pizza chef performing acrobatic moves with the dough"
+    ],
+    "58": [
+        "Cello",
+        "Musician",
+        "Bowing",
+        "Strings"
+    ],
+    "59": [
+        "daf musical instrument",
+        "hands striking daf",
+        "circular drum frame",
+        "musical performance"
+    ],
+    "60": [
+        "Dhol",
+        "Hands",
+        "Drumsticks",
+        "Rhythm"
+    ],
+    "61": [
+        "Flute",
+        "Musician",
+        "Melody",
+        "Concert"
+    ],
+    "62": [
+        "guitar",
+        "music",
+        "strings",
+        "fingers"
+    ],
+    "63": [
+        "piano",
+        "keyboard",
+        "fingers",
+        "notes"
+    ],
+    "64": [
+        "Music instrument",
+        "Sitar",
+        "Music performance",
+        "Indian classical music"
+    ],
+    "65": [
+        "Tabla",
+        "Drummer",
+        "Indian percussion instrument",
+        "Rhythmic beats"
+    ],
+    "66": [
+        "Violin",
+        "Music",
+        "Bowing",
+        "Strings"
+    ],
+    "67": [
+        "pole",
+        "athlete",
+        "vaulting pole",
+        "jumping over bar"
+    ],
+    "68": [
+        "gymnast",
+        "pommel horse apparatus",
+        "rotational movement",
+        "handstand"
+    ],
+    "69": [
+        "gym equipment",
+        "exercise",
+        "upper body strength",
+        "fitness"
+    ],
+    "70": [
+        "Fist",
+        "Strike",
+        "Powerful",
+        "Impact"
+    ],
+    "71": [
+        "arm muscles engaged",
+        "body in a straight line",
+        "hands on the ground",
+        "moving up and down"
+    ],
+    "72": [
+        "raft",
+        "paddle",
+        "life jacket",
+        "river"
+    ],
+    "73": [
+        "climber",
+        "indoor wall",
+        "harness",
+        "rock holds"
+    ],
+    "74": [
+        "rope",
+        "climbing",
+        "rope ladder",
+        "upper body strength"
+    ],
+    "75": [
+        "boat",
+        "paddle",
+        "oars",
+        "water"
+    ],
+    "76": [
+        "dancing couple",
+        "salsa music",
+        "spinning movement",
+        "energetic rhythm"
+    ],
+    "77": [
+        "beard",
+        "razor",
+        "shaving cream",
+        "mirror"
+    ],
+    "78": [
+        "shotput ring",
+        "shotput ball",
+        "throwing motion",
+        "athlete"
+    ],
+    "79": [
+        "Skateboard",
+        "Tricks",
+        "Ramp",
+        "Extreme sport"
+    ],
+    "80": [
+        "snow-covered mountains",
+        "skier wearing a helmet",
+        "ski poles",
+        "ski tracks on the slope"
+    ],
+    "81": [
+        "Skijet on water",
+        "Person riding Skijet in a lake",
+        "Skijet with high speed on a river",
+        "Skijet making waves"
+    ],
+    "82": [
+        "Parachute",
+        "Adrenaline",
+        "Freefall",
+        "Extreme sport"
+    ],
+    "83": [
+        "soccer ball being juggled",
+        "player performing ball tricks",
+        "ball bouncing off player's head",
+        "juggler showing off ball control"
+    ],
+    "84": [
+        "soccer ball",
+        "goalkeeper",
+        "penalty spot",
+        "striker"
+    ],
+    "85": [
+        "gymnast",
+        "rings suspended from ceiling",
+        "holding static position",
+        "muscular strength"
+    ],
+    "86": [
+        "Sumo wrestlers",
+        "Rikishis in traditional outfits",
+        "Intense physical confrontation",
+        "Ring or dohyo surrounded by spectators"
+    ],
+    "87": [
+        "Surfer riding a wave",
+        "Blue ocean waves",
+        "Surfboard gliding on water",
+        "Beach with surfers and waves"
+    ],
+    "88": [
+        "swing set",
+        "baseball bat",
+        "golf club",
+        "playground"
+    ],
+    "89": [
+        "table",
+        "tennis racket",
+        "ball",
+        "table tennis player"
+    ],
+    "90": [
+        "Senior practitioner performing Tai Chi movements",
+        "Peaceful outdoor setting with lush vegetation",
+        "Graceful body postures and flowing movements",
+        "Focused and calm facial expressions"
+    ],
+    "91": [
+        "racket",
+        "ball",
+        "swing",
+        "court"
+    ],
+    "92": [
+        "athlete",
+        "discus",
+        "throwing motion",
+        "sports field"
+    ],
+    "93": [
+        "Trampoline",
+        "Jumping",
+        "Bouncing",
+        "Airborne"
+    ],
+    "94": [
+        "keyboard",
+        "fingers",
+        "typing",
+        "computer"
+    ],
+    "95": [
+        "gymnast",
+        "parallel bars",
+        "twisting",
+        "inverted"
+    ],
+    "96": [
+        "Volleyball player spiking the ball with great power",
+        "Jumping high to execute a powerful volleyball spike",
+        "Smashing the ball over the net during a volleyball game",
+        "Player forcefully hitting the ball down towards the opponent's side"
+    ],
+    "97": [
+        "person walking a dog",
+        "leash being held by the person",
+        "dog walking beside the person",
+        "outdoor environment"
+    ],
+    "98": [
+        "Wall",
+        "Pushups",
+        "Fitness",
+        "Exercise"
+    ],
+    "99": [
+        "whiteboard",
+        "marker",
+        "hand writing",
+        "text"
+    ],
+    "100": [
+        "yo-yo spinning",
+        "string attached to yo-yo",
+        "hand holding yo-yo",
+        "yo-yo in mid-air"
+    ]
+}

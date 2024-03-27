@@ -33,13 +33,44 @@ We query the Large Language Model to augment category names to generate correspo
 
 ## Todo
 
-- [ ] Code Release
+- [x] Code Release
 
-- [ ] Environment
+- [x] Environment
 
 - [ ] Checkpoint Release
 
 - [ ] Check
+
+## Environments
+
+Our codebase is mainly built on [ViFi-CLIP](https://github.com/muzairkhattak/ViFi-CLIP), please follow the [instruction]( https://github.com/muzairkhattak/ViFi-CLIP/blob/main/docs/INSTALL.md) provided in their repository to build environments. 
+
+(*Note that you may need to build your environments on mmcv 1.x*)
+
+## Train & Eval
+
+Fow all the experiments illustrated in the main paper, we provide config files in the `configs` folder. For example, to train OST on Kinetics-400, you can run the following command:
+
+```shell
+python -m torch.distributed.launch --nproc_per_node=8 \ 
+main_nce.py -cfg configs/zero_shot/train/k400/16_32_ost.yaml --output /PATH/TO/OUTPUT 
+```
+
+
+
+To evaluate a model, please use the specific config file in the `configs` folder according to the dataset and data splits. To evaluate OST in the zero-shot setting with 32 frames on UCF-101 zero-shot split-1, you can run the command below:
+
+```shell
+python -m torch.distributed.launch --nproc_per_node=8 \
+main_nce.py -cfg configs/zero_shot/eval/ucf/16_32_ost_zs_ucf101_split1.yaml --output /PATH/TO/OUTPUT \
+--only_test --resume /PATH/TO/CKPT
+```
+
+Please note that we use 8 GPUs in all of our main experiments, and the results may vary due to different environment settings and hardwares.
+
+## Checkpoints
+
+We will provide our model weights for reproducing results soon!
 
 ## Citation
 

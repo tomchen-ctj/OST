@@ -1,0 +1,512 @@
+{
+    "0": [
+        "person",
+        "mirror",
+        "hairbrush",
+        "hair",
+        "brushing",
+        "mirror reflection",
+        "hairstyle",
+        "beauty routine"
+    ],
+    "1": [
+        "Gymnast",
+        "Athletic move",
+        "Acrobatic",
+        "Rotational",
+        "Upside down",
+        "Dynamic",
+        "Body control",
+        "Flexibility"
+    ],
+    "2": [
+        "gloved hand",
+        "flying object",
+        "reaction",
+        "quick reflexes",
+        "interception",
+        "grabbing motion",
+        "accurate aim",
+        "successful catch"
+    ],
+    "3": [
+        "chewing gum",
+        "chomping",
+        "munching",
+        "biting down",
+        "gnawing",
+        "masticating",
+        "crunching",
+        "chewing vigorously"
+    ],
+    "4": [
+        "clapping hands",
+        "applauding",
+        "making a clapping motion",
+        "hands coming together forcefully",
+        "expressing approval through clapping",
+        "making a rhythmic striking sound by bringing hands together",
+        "showing appreciation by clapping",
+        "making noise by clapping hands"
+    ],
+    "5": [
+        "mountain",
+        "rock",
+        "hiking",
+        "ascend",
+        "adventure",
+        "heights",
+        "challenge",
+        "perseverance"
+    ],
+    "6": [
+        "stairs",
+        "climbing",
+        "steps",
+        "ascending",
+        "vertical movement",
+        "leg strength",
+        "exercising",
+        "indoor activity"
+    ],
+    "7": [
+        "Swimming pool",
+        "High jump",
+        "Water splashes",
+        "Airborne",
+        "Form",
+        "Precision",
+        "Graceful",
+        "Depth"
+    ],
+    "8": [
+        "sword",
+        "hand",
+        "drawing motion",
+        "blade",
+        "grip",
+        "sheath",
+        "metallic",
+        "sharp"
+    ],
+    "9": [
+        "basketball",
+        "hand",
+        "court",
+        "movement",
+        "ball control",
+        "skill",
+        "footwork",
+        "coordination"
+    ],
+    "10": [
+        "glass",
+        "bottle",
+        "liquid",
+        "straw",
+        "beverage",
+        "pouring",
+        "sipping",
+        "refreshing"
+    ],
+    "11": [
+        "Biting into a juicy burger",
+        "Savoring a slice of pizza",
+        "Munching on a crispy apple",
+        "Devouring a bowl of spaghetti",
+        "Nibbling on a chocolate chip cookie",
+        "Chewing on a crunchy carrot",
+        "Tasting a scoop of ice cream",
+        "Feasting on a plate of sushi"
+    ],
+    "12": [
+        "person falling",
+        "floor",
+        "collision",
+        "impact",
+        "body hitting the ground",
+        "trip and fall",
+        "stumble",
+        "slip"
+    ],
+    "13": [
+        "Fencer wearing protective gear",
+        "Fencer holding a foil",
+        "Fencer in en garde position",
+        "Fencer executing a lunge",
+        "Fencer parrying an attack",
+        "Fencer scoring a touch",
+        "Fencer wearing a mask",
+        "Fencer competing in a tournament"
+    ],
+    "14": [
+        "gymnast",
+        "acrobat",
+        "gymnastics routine",
+        "aerial flips",
+        "tumbling",
+        "aerial somersault",
+        "gymnastic dismount",
+        "gymnastic maneuver"
+    ],
+    "15": [
+        "Golfer swinging golf club",
+        "Putting ball into hole on green",
+        "Driving golf ball off tee",
+        "Adjusting grip on golf club",
+        "Reading line of putt on green",
+        "Hitting golf ball out of bunker",
+        "Taking a practice swing on driving range",
+        "Measuring distance with golf range finder"
+    ],
+    "16": [
+        "acrobat",
+        "balance",
+        "gymnastics",
+        "upside down",
+        "strength",
+        "flexibility",
+        "core engagement",
+        "inverted"
+    ],
+    "17": [
+        "Baseball bat swinging",
+        "Boxer's punch",
+        "Karate chop",
+        "Tennis racket hitting ball",
+        "Cricket bat hitting ball",
+        "Golf club swing",
+        "Hammer striking a surface",
+        "Pool cue hitting the ball"
+    ],
+    "18": [
+        "embrace",
+        "affection",
+        "cuddle",
+        "hold",
+        "comfort",
+        "warmth",
+        "intimate",
+        "sincere"
+    ],
+    "19": [
+        "leaping",
+        "hopping",
+        "vaulting",
+        "bounding",
+        "springing",
+        "propelling upwards",
+        "soaring through the air",
+        "launching into mid-air"
+    ],
+    "20": [
+        "foot",
+        "movement",
+        "power",
+        "strike",
+        "force",
+        "impact",
+        "athletic",
+        "agility"
+    ],
+    "21": [
+        "soccer ball",
+        "foot",
+        "kicking motion",
+        "goalpost",
+        "grass field",
+        "athletic footwear",
+        "leg swing",
+        "ball trajectory"
+    ],
+    "22": [
+        "couple kissing",
+        "romantic gesture",
+        "intimate moment",
+        "affectionate act",
+        "lip to lip contact",
+        "display of love and affection",
+        "tender action",
+        "physical connection"
+    ],
+    "23": [
+        "smiling face",
+        "open mouth",
+        "wrinkled eyes",
+        "joyful expression",
+        "giggling sound",
+        "shoulders shaking",
+        "tears of laughter",
+        "happiness and amusement"
+    ],
+    "24": [
+        "hand reaching down",
+        "object being lifted",
+        "motion of grabbing",
+        "fingers gripping tightly",
+        "object being raised off the ground",
+        "hand holding an item",
+        "object being moved upwards",
+        "action of lifting and carrying"
+    ],
+    "25": [
+        "water pouring from a jug",
+        "liquid being poured into a glass",
+        "pouring milk into a bowl",
+        "pouring coffee into a cup",
+        "pouring oil into a pan",
+        "pouring cereal into a bowl",
+        "pouring wine into a glass",
+        "pouring sauce onto a plate"
+    ],
+    "26": [
+        "gym equipment",
+        "pull-up bar",
+        "body strength",
+        "upper body workout",
+        "arms stretched",
+        "vertical movement",
+        "fitness routine",
+        "muscular strength"
+    ],
+    "27": [
+        "Closed fist",
+        "Dynamism",
+        "Forceful movement",
+        "Striking motion",
+        "Impact",
+        "Powerful hit",
+        "Quick action",
+        "Focused energy"
+    ],
+    "28": [
+        "hand pushing an object",
+        "door being pushed open",
+        "button being pressed",
+        "trolley being pushed",
+        "pushing a shopping cart",
+        "pushing a stroller",
+        "pushing a bicycle",
+        "pushing a lawnmower"
+    ],
+    "29": [
+        "exercise",
+        "fitness",
+        "strength",
+        "workout",
+        "upper body",
+        "muscles",
+        "repetitions",
+        "physical activity"
+    ],
+    "30": [
+        "Bicycle",
+        "Cyclist",
+        "Helmet",
+        "Pedals",
+        "Handlebars",
+        "Wheels",
+        "Speed",
+        "Outdoor"
+    ],
+    "31": [
+        "horseback riding",
+        "equestrian sport",
+        "riding gear",
+        "stirrups",
+        "reins",
+        "riding helmet",
+        "galloping",
+        "saddle"
+    ],
+    "32": [
+        "running shoes",
+        "sprinting",
+        "outdoor track",
+        "athlete",
+        "fast movement",
+        "racing",
+        "motion blur",
+        "exertion"
+    ],
+    "33": [
+        "two people shaking hands",
+        "handshake",
+        "friendly gesture",
+        "greeting",
+        "professional interaction",
+        "social gesture",
+        "physical contact",
+        "exchange of greetings"
+    ],
+    "34": [
+        "basketball player shooting",
+        "ball leaving player's hand",
+        "basketball hoop in the background",
+        "player aiming at the hoop",
+        "ball flying through the air",
+        "player's arm extending forward",
+        "net swaying after the ball goes in",
+        "ball trajectory towards the hoop"
+    ],
+    "35": [
+        "Archer holding a bow",
+        "Pulling the bowstring back",
+        "Aim towards a target",
+        "Releasing the arrow",
+        "Arrow flying through the air",
+        "Bullseye hit on the target",
+        "Concentration and focus",
+        "Precision and accuracy"
+    ],
+    "36": [
+        "gun",
+        "shooting range",
+        "bullet",
+        "trigger",
+        "muzzle flash",
+        "target practice",
+        "weapon",
+        "ammunition"
+    ],
+    "37": [
+        "chair",
+        "table",
+        "cushion",
+        "floor",
+        "legs",
+        "backrest",
+        "relaxed",
+        "still"
+    ],
+    "38": [
+        "person",
+        "exercise mat",
+        "lying down",
+        "lifting torso",
+        "bent knees",
+        "hands behind head",
+        "abdominal workout",
+        "repetitive movement"
+    ],
+    "39": [
+        "happy facial expression",
+        "upturned corners of the lips",
+        "showing teeth",
+        "joyful expression",
+        "pleased expression",
+        "cheerful countenance",
+        "expressing happiness",
+        "beam with delight"
+    ],
+    "40": [
+        "cigarette",
+        "smoke",
+        "smoking",
+        "smoker",
+        "ashtray",
+        "exhale",
+        "inhale",
+        "tobacco"
+    ],
+    "41": [
+        "Jumping in mid-air",
+        "Rotating backwards",
+        "Acrobatic movement",
+        "Full body flip",
+        "Upside-down position",
+        "Aerial gymnastics",
+        "Twisting motion",
+        "Gymnast's trick"
+    ],
+    "42": [
+        "person standing",
+        "stillness",
+        "upright posture",
+        "stationary position",
+        "vertical stance",
+        "balanced stance",
+        "motionless",
+        "immobile posture"
+    ],
+    "43": [
+        "baseball bat",
+        "baseball swing",
+        "baseball field",
+        "hitter",
+        "outfield",
+        "pitcher",
+        "home plate",
+        "catcher"
+    ],
+    "44": [
+        "sword",
+        "blade",
+        "sharp",
+        "metal",
+        "weapon",
+        "cutting",
+        "handle",
+        "pointed"
+    ],
+    "45": [
+        "sword",
+        "exercise",
+        "martial arts",
+        "training",
+        "samurai",
+        "swordsmanship",
+        "blade",
+        "combat"
+    ],
+    "46": [
+        "conversation",
+        "communication",
+        "dialogue",
+        "discourse",
+        "speaking",
+        "discussion",
+        "chitchat",
+        "verbal exchange"
+    ],
+    "47": [
+        "baseball",
+        "ball",
+        "pitch",
+        "release",
+        "throwing motion",
+        "wind up",
+        "arm swing",
+        "power"
+    ],
+    "48": [
+        "clockwise rotation",
+        "counterclockwise rotation",
+        "change in direction",
+        "pivot",
+        "rotate",
+        "twist",
+        "spin",
+        "swivel"
+    ],
+    "49": [
+        "Sidewalk",
+        "Pavement",
+        "Footsteps",
+        "Stride",
+        "Marching",
+        "Strolling",
+        "Hiking",
+        "Path"
+    ],
+    "50": [
+        "Hand waving",
+        "Greeting",
+        "Farewell",
+        "Hello",
+        "Goodbye",
+        "Salute",
+        "Acknowledgement",
+        "Signaling"
+    ]
+}
