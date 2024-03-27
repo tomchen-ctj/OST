@@ -18,7 +18,6 @@ def text_prompt(data):
 def spatial_prompt(data):
     # text_aug = 'A video of {} usually includes {}'
     text_aug = 'This is a video about {}'
-    # print("spatial prompt only")
     classes = []
     for key, category_name in zip(data.description_spatial, data.classes):
         buffer = []
